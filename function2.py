@@ -252,3 +252,22 @@ def normalizarTexto(texto):
 
 #Transformar funcion a UDF para usar pyspark
 UDF_normalizarTexto=udf(normalizarTexto, StringType())
+
+
+def save_csv_parquet(var, Flag_csv, ruta):
+    if Flag_csv == True:
+        var.write.option("header",True).mode('overwrite').format("csv").save(f'{ruta}/csv')
+        
+        
+        var.write.format("parquet").mode('overwrite').save(f'{ruta}/parquet')
+    else:
+        var.write.format("parquet").mode('overwrite').save(f'{ruta}/parquet')
+
+
+
+
+
+
+
+
+
