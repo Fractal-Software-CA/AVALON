@@ -27,7 +27,7 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
     Ruta_Nombre_Input_relaciones : STRING
         Dirección del archivo correspondiente en csv. Ejemplo DATA_SIC_RELACIONES_ENTIDADES_MST_AYUDAS.csv.
     Ruta_Nombre_Input_invente : STRING
-        Dirección del archivo correspondiente en csv. Ejemplo DATA_IGAE_INVENTE.csv.
+        Dirección del archivo correspondiente en excel. Ejemplo 'Analisis_entidades_invente_15-02-2022.xlsx.
     Ruta_Nombre_Input_dir3 : STRING
         Dirección del archivo correspondiente en csv. Ejemplo DATA_DIR3.csv.
     Ruta_Nombre_Intermedio_cruce1_relaciones : STRING
