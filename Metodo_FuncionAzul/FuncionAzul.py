@@ -147,7 +147,7 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
     # =============================================================================
     # Procesamiento para iniciar el archivo deseado a partter del maxId
     # =============================================================================
-    #data = data.dropDuplicates(["Entidad_Norm", "Provincia_Entidad"])
+    data = data.dropDuplicates(["Entidad_Norm", "Provincia_Entidad"])
     data = data.withColumnRenamed("Id", "IdOld")
     
     Index = [maxId + i for i in range(1, data_count+1)]
@@ -173,7 +173,7 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
 
 
 
-    # eliminar duplicados
+
     
     # =============================================================================
     # Aplicación de metodo para almacenar el resultado (parquet, csv, o ambos inclusive)
