@@ -53,7 +53,7 @@ def format_results(results,df1columns,df2columns):
     columnsTargetNames1 = [[]]*len(df2columns)
     
     i=0
-    for i in results:
+    for i in tqdm(results):
         
         source_name = results[i]['source_name']
         columnsSourcesNamesResults = [None]*len(df1columns)
