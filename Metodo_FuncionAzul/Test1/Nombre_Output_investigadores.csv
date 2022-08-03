@@ -1,0 +1,728 @@
+Id,Entidad,Origen_Solicitud,Identificadores_Origen,Entidad_Norm,CIF,CIF_validacion,Centro,Centro_Norm,Tipo,Provincia_Entidad,Pais_Entidad,Provincia_Centro,PIC,Tipo_Persona,Entidad_Match,Provincia_Match,Match,Final_Score,Id_Centro,Centro_Nombre_match,Centro_Provincia_match,Similitud_Centro
+8194,CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS,ACT_NAC,337320,724,,1,724,724,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.0,8194,INSTITUTO BOTANICO DE BARCELONA,8.0,0.0
+8195,Instituto Geológico y Minero de España,ACT_NAC,542678,77,,1,77,77,20501,,"724,0000",,,,instituto geologico y minero de espana igme csic,28,NIF MCIN,0.0,8195,Oficina de proyectos del IGME Palma de Mallorca,7.0,0.0
+8196,UNIVERSIDAD DE ALICANTE,ACT_NAC,640426,88,,1,88,88,20101,,"724,0000",,,,universidad de alicante,3,NIF MCIN,0.0,8196,None,3.0,0.0
+8197,CENTRE INTERNACIONAL DE METODES NUMERICS A L ENGINYERIA,ACT_NAC,563800,agr centre internacional de metodes numerics a l enginyeria,,1,AGR-CENTRE INTERNACIONAL DE METODES NUMERICS A L ENGINYERIA,agr centre internacional de metodes numerics a l enginyeria,20508,,"724,0000",,,,international centre for numerical methods in engineering,8,NIF MCIN,0.4055944,8197,INSTITUT UNIVERSITARI DE RECERCA EN DINAMICA FLUVIAL I ENGINYERIA HIDROLOGICA FLUMEN,8.0,0.4055944
+8198,CONSORCIO CENTRO DE INVESTIGACION BIOMEDICA EN RED MP CIBER,ACT_NAC,26400,agr consorcio ciber para el area tematica de salud mental cibersam,,1,AGR-CONSORCIO CIBER PARA EL AREA TEMATICA DE SALUD MENTAL (CIBERSAM),agr consorcio ciber para el area tematica de salud mental cibersam,20501,,"724,0000",,,,consorcio centro de investigacion biomedica en red,28,NIF MCIN,0.44827586,8198,CIBER ENFERMEDADES HEPATICAS Y DIGESTIVAS CIBEREHD,8.0,0.44827586
+8199,FUNDACIO CENTRE DE REGULACIO GENOMICA,ACT_NAC,322087,agr fundacio privada centre de regulacio genomica,,1,AGR-FUNDACIO PRIVADA CENTRE DE REGULACIO GENOMICA,agr fundacio privada centre de regulacio genomica,20510,,"724,0000",,,,centre de regulacio genomica,8,NIF MCIN,0.23376623,8199,BIOINFORMATICS ANALYSIS UNIT,None,0.23376623
+8200,FUNDACIÓN PARQUE CIENTÍFICO UNIVERSIDAD DE VALLADOLID,ACT_NAC,155955,agr fundacion parque cientifico universidad de valladolid,,1,AGR-FUNDACIÓN PARQUE CIENTÍFICO UNIVERSIDAD DE VALLADOLID,agr fundacion parque cientifico universidad de valladolid,29999,,"724,0000",,,,parque cientifico universidad de valladoli d,47,NIF MCIN,0.6097561,8200,Universidad de Valladolid,47.0,0.6097561
+8201,INSTITUTO NACIONAL DE TECNICA AEROESPACIAL ESTEBAN TERRADAS (INTA),ACT_NAC,455882,agr instituto nacional de tecnica aeroespacial esteban terradas mde inta,,1,AGR-INSTITUTO NACIONAL DE TECNICA AEROESPACIAL ESTEBAN TERRADAS MDE (INTA),agr instituto nacional de tecnica aeroespacial esteban terradas mde inta,29999,,"724,0000",,,,instituto nacional de tecnica aeroespacial esteban terradas inta,28,NIF MCIN,0.32394367,8201,ENSAYOS DE EXPERIMENTACION EN VUELO PARA LA CERTIFICACION DE AERONAVES,18.0,0.32394367
+8202,UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL),ACT_NAC,660673,albert ludwigs universitat freiburg,,1,Albert-Ludwigs-Universität Freiburg,albert ludwigs universitat freiburg,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.17977528,8202,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.17977528
+8203,INSTITUTO DE ASTROFISICA DE CANARIAS (IAC),ACT_NAC,415781,area de instrumentacion,,1,AREA DE INSTRUMENTACION,area de instrumentacion,20501,,"724,0000",,,,instituto de astrofisica de canarias iac,38,NIF MCIN,0.39344263,8203,CENTRO DE ASTROFISICA EN LA PALMA (CALP),38.0,0.39344263
+8204,UNIVERSIDAD MIGUEL HERNÁNDEZ DE ELCHE,ACT_NAC,655940,auckland university of technology,,1,Auckland University of Technology,auckland university of technology,20101,,"724,0000",,,,universidad miguel hernandez de elche,3,NIF MCIN,0.10810811,8204,None,46.0,0.10810811
+8205,BARCELONA SUPERCOMPUTING CENTER   CENTRO NACIONAL DE SUPERCOMPUTACION,ACT_NAC,288127,barcelona supercomputing center centro nacional de supercomputacion,,1,BARCELONA SUPERCOMPUTING CENTER - CENTRO. NACIONAL DE SUPERCOMPUTACION,barcelona supercomputing center centro nacional de supercomputacion,29999,,"724,0000",,,,consorcio barcelona supercomputing center centro nacional de supercomputacion,8,NIF MCIN,0.27586207,8205,COMPARATIVE GENOMICS,None,0.27586207
+8206,UNIVERSIDAD POLITÉCNICA DE VALENCIA,ACT_NAC,660393,broad institute of mit and harvard,,1,Broad Institute of MIT and Harvard,broad institute of mit and harvard,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.15789473,8206,None,46.0,0.15789473
+8207,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,25983,centre d estudis d historia de les ciencies cehic,,1,CENTRE D'ESTUDIS D'HISTORIA DE LES CIENCIES (CEHIC),centre d estudis d historia de les ciencies cehic,29999,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.32967034,8207,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.32967034
+8208,"UNIVERSIDAD PABLO DE OLAVIDE, DE SEVILLA",ACT_NAC,406438,centro andaluz de biologia molecular y medicina regenerativa cabimer,,1,CENTRO ANDALUZ DE BIOLOGÍA MOLECULAR Y MEDICINA REGENERATIVA - CABIMER,centro andaluz de biologia molecular y medicina regenerativa cabimer,20101,,"724,0000",,,,universidad pablo de olavide,41,NIF MCIN,0.11111111,8208,None,41.0,0.11111111
+8209,INSTITUTO ESPAÑOL DE OCEANOGRAFIA (IEO),ACT_NAC,448309,centro costero oceanografico vigo,,1,CENTRO COSTERO OCEANOGRAFICO. VIGO,centro costero oceanografico vigo,20501,,"724,0000",,,,instituto espanol de oceanografia ieo csic,28,NIF MCIN,0.23762377,8209,INSTALACION CULTIVO Y REPRODUCCION DE ATUNES ICRA (Cartagena-Mazarrón),30.0,0.23762377
+8210,UNIVERSIDAD DE ALCALA,ACT_NAC,416193,centro de alta tecnologia y homologacion catechom,,1,CENTRO DE ALTA TECNOLOGIA Y HOMOLOGACION -CATECHOM-,centro de alta tecnologia y homologacion catechom,20101,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.1509434,8210,None,28.0,0.1509434
+8211,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,486688,centro de asistencia a la investigacion de rmn y rse,,1,CENTRO DE ASISTENCIA A LA INVESTIGACIÓN DE RMN Y RSE,centro de asistencia a la investigacion de rmn y rse,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.14285715,8211,None,28.0,0.14285715
+8212,Agencia Estatal Consejo Superior de Investigaciones Científicas,ACT_NAC,252544,centro de astrobiologia cab,,1,Centro de Astrobiología (CAB),centro de astrobiologia cab,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.37931034,8212,INSTITUTO BOTANICO DE BARCELONA,8.0,0.37931034
+8213,CSIC,ACT_NAC,150250,centro de automatica y robotica car,,1,CENTRO DE AUTOMATICA Y ROBOTICA (CAR),centro de automatica y robotica car,29999,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.3030303,8213,INSTITUTO BOTANICO DE BARCELONA,8.0,0.3030303
+8214,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS (CSIC),ACT_NAC,694631,centro de biologia molecular severo ochoa,,1,Centro de Biología Molecular Severo Ochoa,centro de biologia molecular severo ochoa,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.3611111,8214,INSTITUTO BOTANICO DE BARCELONA,8.0,0.3611111
+8215,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,265640,centro de biologia molecular severo ochoa cbm,,1,CENTRO DE BIOLOGIA MOLECULAR SEVERO OCHOA (CBM),centro de biologia molecular severo ochoa cbm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.34210527,8215,INSTITUTO BOTANICO DE BARCELONA,8.0,0.34210527
+8216,UNIVERSIDAD POLITÉCNICA DE MADRID,ACT_NAC,694495,centro de biotecnologia y genomica de plantas,,1,Centro de Biotecnología y Genómica de Plantas,centro de biotecnologia y genomica de plantas,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.5263158,8216,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.5263158
+8217,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,478362,centro de biotecnologia y genomica de plantas cbgp,,1,CENTRO DE BIOTECNOLOGIA Y GENOMICA DE PLANTAS (CBGP),centro de biotecnologia y genomica de plantas cbgp,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.4691358,8217,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.4691358
+8218,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,459029,centro de desarrollo de sensores instrumentacion y sistemas cd6,,1,"CENTRO DE DESARROLLO DE SENSORES, INSTRUMENTACION Y SISTEMAS (CD6)",centro de desarrollo de sensores instrumentacion y sistemas cd6,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.20634921,8218,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.20634921
+8219,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,646833,centro de edafologia y biologia aplicada del segura cebas,,1,CENTRO DE EDAFOLOGIA Y BIOLOGIA APLICADA DEL SEGURA (CEBAS),centro de edafologia y biologia aplicada del segura cebas,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.20454545,8219,INSTITUTO BOTANICO DE BARCELONA,8.0,0.20454545
+8220,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS (CSIC),ACT_NAC,692289,centro de edafologia y biologia aplicada del segura cebas csic,,1,CENTRO DE EDAFOLOGÍA Y BIOLOGÍA APLICADA DEL SEGURA (CEBAS)-CSIC,centro de edafologia y biologia aplicada del segura cebas csic,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.21505377,8220,INSTITUTO BOTANICO DE BARCELONA,8.0,0.21505377
+8221,"CENTRO DE ENSEÑANZA UNIVERSITARIA SEK, S. A.",ACT_NAC,288992,centro de ensenanza universitaria sek s a,,1,"CENTRO DE ENSEÑANZA UNIVERSITARIA SEK, S. A.",centro de ensenanza universitaria sek s a,20102,,"724,0000",,,,universidad camilo jose cela,28,NIF MCIN,0.17777778,8221,None,28.0,0.17777778
+8222,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,285638,centro de estudios avanzados de blanes ceab,,1,CENTRO DE ESTUDIOS AVANZADOS DE BLANES (CEAB),centro de estudios avanzados de blanes ceab,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.3243243,8222,INSTITUTO BOTANICO DE BARCELONA,8.0,0.3243243
+8223,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,755693,centro de estudios e investigacion para la gestion de riesgos agrarios y medioambientales ceigram,,1,CENTRO DE ESTUDIOS E INVESTIGACIÓN PARA LA GESTIÓN DE RIESGOS AGRARIOS Y MEDIOAMBIENTALES (CEIGRAM),centro de estudios e investigacion para la gestion de riesgos agrarios y medioambientales ceigram,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.328125,8223,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.328125
+8224,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,617512,centro de fisica de materiales cfm,,1,CENTRO DE FISICA DE MATERIALES (CFM),centro de fisica de materiales cfm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.30769232,8224,INSTITUTO BOTANICO DE BARCELONA,8.0,0.30769232
+8225,UNIVERSIDAD DE GRANADA,ACT_NAC,756264,centro de instrumentacion cientifica,,1,CENTRO DE INSTRUMENTACION CIENTIFICA,centro de instrumentacion cientifica,20101,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.23913044,8225,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.23913044
+8226,INSTITUTO REGIONAL DE INVESTIGACIÓN Y DESARROLLO AGROALIMENTARIO Y FORESTAL DE CASTILLA-LA MANCHA (IRIAF),ACT_NAC,23533,centro de investigacion apicola y agroambiental ciapa,,1,Centro de Investigación Apícola y Agroambiental (CIAPA),centro de investigacion apicola y agroambiental ciapa,20501,,"724,0000",,,,instituto regional de investigacion y desarrollo agroalimentario y forestal de castilla la mancha,13,NIF MCIN,0.14035088,8226,None,13.0,0.14035088
+8227,Universidad de Granada,ACT_NAC,33553,centro de investigacion biomedica,,1,CENTRO DE INVESTIGACION BIOMEDICA,centro de investigacion biomedica,29999,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.2247191,8227,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.2247191
+8228,Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria,ACT_NAC,79346,centro de investigacion en sanidad animal cisa,,1,CENTRO DE INVESTIGACION EN SANIDAD ANIMAL (CISA),centro de investigacion en sanidad animal cisa,20501,,"724,0000",,,,instituto nacional de investigacion y tecnologia agraria y alimentaria inia csic,28,NIF MCIN,0.46153846,8228,CENTRO DE BIOTECNOLOGIA Y GENOMICA DE PLANTAS,28.0,0.46153846
+8229,INSTITUTO NACIONAL DE INVESTIGACIÓN Y TECNOLOGÍA AGRARIA Y ALIMENTARIA (INIA),ACT_NAC,618652,centro de investigacion forestal cifor,,1,CENTRO DE INVESTIGACION FORESTAL (CIFOR),centro de investigacion forestal cifor,20501,,"724,0000",,,,instituto nacional de investigacion y tecnologia agraria y alimentaria inia csic,28,NIF MCIN,0.36144578,8229,CENTRO DE BIOTECNOLOGIA Y GENOMICA DE PLANTAS,28.0,0.36144578
+8230,UNIVERSIDAD DE GRANADA,ACT_NAC,287544,centro de investigacion mente cerebro y comportamiento,,1,"CENTRO DE INVESTIGACION MENTE, CEREBRO Y COMPORTAMIENTO",centro de investigacion mente cerebro y comportamiento,20101,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.3272727,8230,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.3272727
+8231,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,286918,centro de investigaciones biologicas cib,,1,CENTRO DE INVESTIGACIONES BIOLOGICAS (CIB),centro de investigaciones biologicas cib,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.30985916,8231,INSTITUTO BOTANICO DE BARCELONA,8.0,0.30985916
+8232,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,477891,centro de investigaciones sobre desertificacion cide,,1,CENTRO DE INVESTIGACIONES SOBRE DESERTIFICACION (CIDE),centro de investigaciones sobre desertificacion cide,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.28915662,8232,INSTITUTO BOTANICO DE BARCELONA,8.0,0.28915662
+8233,Universidad Politécnica de Madrid,ACT_NAC,256576,centro de tecnologia biomedica,,1,Centro de Tecnología Biomédica,centro de tecnologia biomedica,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.52459013,8233,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.52459013
+8234,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,156239,centro de tecnologia biomedica ctb,,1,CENTRO DE TECNOLOGÍA BIOMÉDICA: CTB,centro de tecnologia biomedica ctb,29999,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.5538462,8234,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.5538462
+8235,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,137428,centro de tecnologia nanofotonica,,1,CENTRO DE TECNOLOGIA NANOFOTONICA,centro de tecnologia nanofotonica,29999,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.16216215,8235,None,46.0,0.16216215
+8236,UNIVERSIDAD DE SEVILLA,ACT_NAC,477728,centro nacional de aceleradores,,1,CENTRO NACIONAL DE ACELERADORES,centro nacional de aceleradores,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.22857143,8236,None,41.0,0.22857143
+8237,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,407452,centro nacional de biotecnologia cnb,,1,CENTRO NACIONAL DE BIOTECNOLOGIA (CNB),centro nacional de biotecnologia cnb,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.4477612,8237,INSTITUTO BOTANICO DE BARCELONA,8.0,0.4477612
+8238,INSTITUTO DE SALUD CARLOS III DE MADRID (ISCIII),ACT_NAC,435031,centro nacional de microbiologia,,1,CENTRO NACIONAL DE MICROBIOLOGIA,centro nacional de microbiologia,20501,,"724,0000",,,,instituto de salud carlos iii isciii,28,NIF MCIN,0.30555555,8238,CIBER ENFERMEDADES RESPIRATORIAS CIBERES,20.0,0.30555555
+8239,INSTITUTO ESPAÑOL DE OCEANOGRAFIA (IEO),ACT_NAC,260305,centro oceanografico de baleares,,1,CENTRO OCEANOGRAFICO DE BALEARES,centro oceanografico de baleares,20501,,"724,0000",,,,instituto espanol de oceanografia ieo csic,28,NIF MCIN,0.26,8239,INSTALACION CULTIVO Y REPRODUCCION DE ATUNES ICRA (Cartagena-Mazarrón),30.0,0.26
+8240,Institut Espanyol d'Oceanografia,ACT_NAC,156511,centro oceanografico gijon,,1,CENTRO OCEANOGRAFICO. GIJON,centro oceanografico gijon,29999,,"724,0000",,,,instituto espanol de oceanografia ieo csic,28,NIF MCIN,0.10638298,8240,INSTALACION CULTIVO Y REPRODUCCION DE ATUNES ICRA (Cartagena-Mazarrón),30.0,0.10638298
+8241,"Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas",ACT_NAC,156557,ciemat centro de investigaciones energeticas medioambientales y tecnologicas,,1,CIEMAT:CENTRO DE INVESTIGACIONES ENERGETICAS MEDIOAMBIENTALES Y TECNOLOGICAS,ciemat centro de investigaciones energeticas medioambientales y tecnologicas,29999,,"724,0000",,,,centro de investigaciones energeticas medioambientales y tecnologicas ciemat,28,NIF MCIN,0.1,8241,None,8.0,0.1
+8242,UNIVERSIDAD DE ALMERIA,ACT_NAC,82401,ciesol centro mixto de investigacion en energia solar ual ciemat,,1,CIESOL CENTRO MIXTO DE INVESTIGACIÓN EN ENERGÍA SOLAR UAL-CIEMAT,ciesol centro mixto de investigacion en energia solar ual ciemat,29999,,"724,0000",,,,universidad de almeria,4,NIF MCIN,0.11764706,8242,None,4.0,0.11764706
+8243,UNIVERSIDAD POLITÉCNICA DE CARTAGENA,ACT_NAC,660333,college of engineering,,1,College of Engineering,college of engineering,20101,,"724,0000",,,,universidad politecnica de cartagena,30,NIF MCIN,0.23076923,8243,None,30.0,0.23076923
+8244,CONSORCIO CENTRO DE INVESTIGACION BIOMEDICA EN RED M.P. (CIBER),ACT_NAC,449974,consorcio centro de investigacion biomedica en red m p ciber,,1,CONSORCIO CENTRO DE INVESTIGACION BIOMEDICA EN RED M.P. (CIBER),consorcio centro de investigacion biomedica en red m p ciber,20501,,"724,0000",,,,consorcio centro de investigacion biomedica en red,28,NIF MCIN,0.38181818,8244,CIBER ENFERMEDADES HEPATICAS Y DIGESTIVAS CIBEREHD,8.0,0.38181818
+8245,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,729889,csic instituto de agrobiotecnologia,,1,CSIC-INSTITUTO DE AGROBIOTECNOLOGIA,csic instituto de agrobiotecnologia,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.54545456,8245,INSTITUTO BOTANICO DE BARCELONA,8.0,0.54545456
+8246,UNIVERSIDAD DE BARCELONA,ACT_NAC,478127,departament d historia i arqueologia,,1,DEPARTAMENT D'HISTÒRIA I ARQUEOLOGIA,departament d historia i arqueologia,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.15,8246,None,8.0,0.15
+8247,UNIVERSIDAD DE BARCELONA,ACT_NAC,285084,departament de bioquimica i biomedicina molecular,,1,DEPARTAMENT DE BIOQUÍMICA I BIOMEDICINA MOLECULAR,departament de bioquimica i biomedicina molecular,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.1509434,8247,None,8.0,0.1509434
+8248,UNIVERSIDAD DE BARCELONA,ACT_NAC,562459,departament de filologia hispanica teoria de la literatura i comunicacio,,1,"DEPARTAMENT DE FILOLOGIA HISPANICA, TEORIA DE LA LITERATURA I COMUNICACIÓ",departament de filologia hispanica teoria de la literatura i comunicacio,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.10526316,8248,None,8.0,0.10526316
+8249,UNIVERSIDAD DE BARCELONA,ACT_NAC,25955,departament de fisica quantica i astrofisica,,1,DEPARTAMENT DE FÍSICA QUÀNTICA I ASTROFÍSICA,departament de fisica quantica i astrofisica,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.083333336,8249,None,8.0,0.083333336
+8250,UNIVERSIDAD DE ALCALA,ACT_NAC,137165,departamento biologia de sistemas,,1,DEPARTAMENTO BIOLOGÍA DE SISTEMAS,departamento biologia de sistemas,29999,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.16216215,8250,None,28.0,0.16216215
+8251,Universitat de les Illes Balears-UIB,ACT_NAC,592524,departamento de biologia fundamental y ciencias de la salud,,1,Departamento de Biología Fundamental y Ciencias de la Salud,departamento de biologia fundamental y ciencias de la salud,20101,,"724,0000",,,,universitat de les illes balears,7,NIF MCIN,0.2184874,8251,INSTITUTO MEDITERRANEO DE ESTUDIOS AVANZADOS IMEDEA UIB CSIC,7.0,0.2184874
+8252,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,599681,departamento de electroceramica,,1,DEPARTAMENTO DE ELECTROCERAMICA,departamento de electroceramica,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.38709676,8252,INSTITUTO BOTANICO DE BARCELONA,8.0,0.38709676
+8253,UNIVERSIDAD DE ALCALA,ACT_NAC,137526,departamento de electronica,,1,DEPARTAMENTO DE ELECTRÓNICA,departamento de electronica,29999,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.19354838,8253,None,28.0,0.19354838
+8254,UNIVERSIDAD DE LA LAGUNA,ACT_NAC,274018,departamento de geografia e historia,,1,DEPARTAMENTO DE GEOGRAFÍA E HISTORIA,departamento de geografia e historia,20101,,"724,0000",,,,universidad de la laguna,38,NIF MCIN,0.3888889,8254,INSTITUTO DE ASTROFISICA DE CANARIAS,38.0,0.3888889
+8255,UNIVERSIDAD POLITÉCNICA DE CARTAGENA,ACT_NAC,265391,departamento de ingenieria agronomica,,1,DEPARTAMENTO DE INGENIERÍA AGRONÓMICA,departamento de ingenieria agronomica,20101,,"724,0000",,,,universidad politecnica de cartagena,30,NIF MCIN,0.09756097,8255,None,30.0,0.09756097
+8256,CENTRO DE INVESTIGACION ENERGETICA MEDIOAMBIENTAL Y TECNOLOGICA (CIEMAT),ACT_NAC,445206,departamento de investigacion basica,,1,DEPARTAMENTO DE INVESTIGACIÓN BÁSICA,departamento de investigacion basica,20501,,"724,0000",,,,centro de investigaciones energeticas medioambientales y tecnologicas ciemat,28,NIF MCIN,0.15,8256,None,8.0,0.15
+8257,Instituto Geológico y Minero de España,ACT_NAC,33544,departamento de investigacion y prospectiva geocientifica,,1,DEPARTAMENTO DE INVESTIGACION Y PROSPECTIVA GEOCIENTIFICA,departamento de investigacion y prospectiva geocientifica,20501,,"724,0000",,,,instituto geologico y minero de espana igme csic,28,NIF MCIN,0.34615386,8257,Oficina de proyectos del IGME Palma de Mallorca,7.0,0.34615386
+8258,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,599561,departamento de mejora vegetal,,1,DEPARTAMENTO DE MEJORA VEGETAL,departamento de mejora vegetal,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.36065573,8258,INSTITUTO BOTANICO DE BARCELONA,8.0,0.36065573
+8259,UNIVERSITAT JAUME I DE CASTELLO,ACT_NAC,477814,departamento de psicologia basica clinica y psicobiologia,,1,"DEPARTAMENTO DE PSICOLOGÍA BÁSICA, CLÍNICA Y PSICOBIOLOGIA",departamento de psicologia basica clinica y psicobiologia,20101,,"724,0000",,,,universidad jaume i de castellon,12,NIF MCIN,0.09836066,8259,None,12.0,0.09836066
+8260,CENTRO DE INVESTIGACION ENERGETICA MEDIOAMBIENTAL Y TECNOLOGICA (CIEMAT),ACT_NAC,477647,departamento de tecnologia,,1,DEPARTAMENTO DE TECNOLOGÍA,departamento de tecnologia,20501,,"724,0000",,,,centro de investigaciones energeticas medioambientales y tecnologicas ciemat,28,NIF MCIN,0.13333334,8260,None,8.0,0.13333334
+8261,INSTITUTO NACIONAL DE INVESTIGACIÓN Y TECNOLOGÍA AGRARIA Y ALIMENTARIA (INIA),ACT_NAC,449020,departamento de tecnologia de alimentos,,1,DEPARTAMENTO DE TECNOLOGIA DE ALIMENTOS,departamento de tecnologia de alimentos,20501,,"724,0000",,,,instituto nacional de investigacion y tecnologia agraria y alimentaria inia csic,28,NIF MCIN,0.61904764,8261,CENTRO DE BIOTECNOLOGIA Y GENOMICA DE PLANTAS,28.0,0.61904764
+8262,UNIVERSIDAD DE ALCALA,ACT_NAC,26510,departamento de teoria de la senal y comunicaciones,,1,DEPARTAMENTO DE TEORÍA DE LA SEÑAL Y COMUNICACIONES,departamento de teoria de la senal y comunicaciones,20101,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.14545454,8262,None,28.0,0.14545454
+8263,UNIVERSIDAD DE ALCALA,ACT_NAC,286252,departamento quimica analitica quimica fisica e ingenieria quimica,,1,"DEPARTAMENTO QUÍMICA ANALÍTICA, QUÍMICA FÍSICA, E INGENIERÍA QUÍMICA",departamento quimica analitica quimica fisica e ingenieria quimica,20101,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.114285715,8263,None,28.0,0.114285715
+8264,78-UNIVERSIDAD AUTÓNOMA DE MADRID,ACT_NAC,701745,derecho,,1,DERECHO,derecho,29900,,"724,0000",,,,universidad autonoma de madrid,28,NIF MCIN,0.15,8264,INSTITUTO DE CIENCIAS MATEMATICAS,28.0,0.15
+8265,UNIVERSIDAD DE SANTIAGO DE COMPOSTELA,ACT_NAC,660730,dipartimento di matematica e fisica ennio de giorgi,,1,"""Dipartimento di Matematica e Fisica """"Ennio De Giorgi""""""",dipartimento di matematica e fisica ennio de giorgi,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.14545454,8265,None,15.0,0.14545454
+8266,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,600487,dpto biodiversidad y conservacion,,1,DPTO. BIODIVERSIDAD Y CONSERVACIÓN,dpto biodiversidad y conservacion,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.40625,8266,INSTITUTO BOTANICO DE BARCELONA,8.0,0.40625
+8267,UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE,ACT_NAC,274124,dpto biologia aplicada,,1,DPTO. BIOLOGIA APLICADA,dpto biologia aplicada,20101,,"724,0000",,,,universidad miguel hernandez de elche,3,NIF MCIN,0.07692308,8267,None,46.0,0.07692308
+8268,UNIVERSIDAD DE SEVILLA,ACT_NAC,486465,dpto bioquimica vegetal y biologia molecular,,1,DPTO. BIOQUIMICA VEGETAL Y BIOLOGIA MOLECULAR,dpto bioquimica vegetal y biologia molecular,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.083333336,8268,None,41.0,0.083333336
+8269,UNIVERSIDAD DE CORDOBA,ACT_NAC,429322,dpto bromatologia y tecnologia de los alimentos,,1,DPTO. BROMATOLOGIA Y TECNOLOGIA DE LOS ALIMENTOS,dpto bromatologia y tecnologia de los alimentos,20101,,"724,0000",,,,universidad de cordoba,14,NIF MCIN,0.11764706,8269,None,14.0,0.11764706
+8270,UNIVERSIDAD CARLOS III DE MADRID,ACT_NAC,710359,dpto ciencia e ingenieria de materiales e ingenieria quimica,,1,DPTO. CIENCIA E INGENIERIA DE MATERIALES E INGENIERIA QUIMICA,dpto ciencia e ingenieria de materiales e ingenieria quimica,20101,,"724,0000",,,,universidad carlos iii de madrid,28,NIF MCIN,0.09375,8270,None,28.0,0.09375
+8271,UNIVERSIDAD DE LAS ISLAS BALEARES,ACT_NAC,284624,dpto ciencias de la tierra,,1,DPTO. CIENCIAS DE LA TIERRA,dpto ciencias de la tierra,20101,,"724,0000",,,,universitat de les illes balears,7,NIF MCIN,0.23255815,8271,INSTITUTO MEDITERRANEO DE ESTUDIOS AVANZADOS IMEDEA UIB CSIC,7.0,0.23255815
+8272,UNIVERSIDAD POMPEU FABRA,ACT_NAC,82251,dpto ciencias experimentales y de la salud,,1,DPTO. CIENCIAS EXPERIMENTALES Y DE LA SALUD,dpto ciencias experimentales y de la salud,20101,,"724,0000",,,,universidad pompeu fabra,8,NIF MCIN,0.13043478,8272,None,8.0,0.13043478
+8273,UNIVERSIDAD DE EXTREMADURA,ACT_NAC,617329,dpto ciencias morfologicas y biologia celular y animal,,1,DPTO. CIENCIAS MORFOLOGICAS Y BIOLOGIA CELULAR Y ANIMAL,dpto ciencias morfologicas y biologia celular y animal,20101,,"724,0000",,,,universidad de extremadura,6,NIF MCIN,0.10344828,8273,None,6.0,0.10344828
+8274,UNIVERSITAT POMPEU FABRA CCT,ACT_NAC,288660,dpto ciencias politicas y sociales,,1,DPTO. CIENCIAS POLITICAS Y SOCIALES,dpto ciencias politicas y sociales,20101,,"724,0000",,,,universidad pompeu fabra,8,NIF MCIN,0.15789473,8274,None,8.0,0.15789473
+8275,UNIVERSIDAD CARLOS III DE MADRID,ACT_NAC,33880,dpto de bioingenieria e ingenieria aeroespacial,,1,DPTO. DE BIOINGENIERIA E INGENIERIA AEROESPACIAL,dpto de bioingenieria e ingenieria aeroespacial,29999,,"724,0000",,,,universidad carlos iii de madrid,28,NIF MCIN,0.11764706,8275,None,28.0,0.11764706
+8276,UNIVERSIDAD DE ALMERIA,ACT_NAC,454954,dpto de biologia y geologia,,1,DPTO. DE BIOLOGIA Y GEOLOGIA,dpto de biologia y geologia,20101,,"724,0000",,,,universidad de almeria,4,NIF MCIN,0.12903225,8276,None,4.0,0.12903225
+8277,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,322874,dpto de ecologia funcional y evolutiva,,1,DPTO. DE ECOLOGIA FUNCIONAL Y EVOLUTIVA,dpto de ecologia funcional y evolutiva,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.3188406,8277,INSTITUTO BOTANICO DE BARCELONA,8.0,0.3188406
+8278,Universitat de València,ACT_NAC,25453,dpto de economia financiera y actuarial,,1,DPTO. DE ECONOMIA FINANCIERA Y ACTUARIAL,dpto de economia financiera y actuarial,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.2580645,8278,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.2580645
+8279,UNIVERSIDAD DE LEON,ACT_NAC,80538,dpto de educacion fisica y deportiva,,1,DPTO. DE EDUCACION FISICA Y DEPORTIVA,dpto de educacion fisica y deportiva,29999,,"724,0000",,,,universidad de leon,24,NIF MCIN,0.15,8279,None,24.0,0.15
+8280,CENTRO DE INVESTIGACION ENERGETICA MEDIOAMBIENTAL Y TECNOLOGICA (CIEMAT),ACT_NAC,562154,dpto de energia,,1,DPTO. DE ENERGIA,dpto de energia,20501,,"724,0000",,,,centro de investigaciones energeticas medioambientales y tecnologicas ciemat,28,NIF MCIN,0.31578946,8280,None,8.0,0.31578946
+8281,UNIVERSIDAD DE EXTREMADURA,ACT_NAC,135842,dpto de fisica aplicada,,1,DPTO. DE FISICA APLICADA,dpto de fisica aplicada,20101,,"724,0000",,,,universidad de extremadura,6,NIF MCIN,0.14814815,8281,None,6.0,0.14814815
+8282,UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,ACT_NAC,135623,dpto de genetica,,1,DPTO. DE GENETICA,dpto de genetica,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.3,8282,None,15.0,0.3
+8283,UNIVERSIDAD DE JAEN,ACT_NAC,599830,dpto de geologia,,1,DPTO. DE GEOLOGIA,dpto de geologia,20101,,"724,0000",,,,universidad de jaen,23,NIF MCIN,0.2,8283,None,23.0,0.2
+8284,UNIVERSIDAD DE CORDOBA,ACT_NAC,710105,dpto de historia del arte arqueologia y musica,,1,"DPTO. DE HISTORIA DEL ARTE, ARQUEOLOGÍA Y MÚSICA",dpto de historia del arte arqueologia y musica,20101,,"724,0000",,,,universidad de cordoba,14,NIF MCIN,0.08,8284,None,14.0,0.08
+8285,UNIVERSIDAD NACIONAL DE EDUCACION A DISTANCIA,ACT_NAC,618173,dpto de informatica y automatica,,1,DPTO. DE INFORMATICA Y AUTOMATICA,dpto de informatica y automatica,20101,,"724,0000",,,,universidad nacional de educacion a distancia,28,NIF MCIN,0.11111111,8285,None,28.0,0.11111111
+8286,UNIVERSIDAD POLITÉCNICA DE CARTAGENA,ACT_NAC,288671,dpto de ingenieria de alimentos y del equipamiento,,1,DPTO DE INGENIERÍA DE ALIMENTOS Y DEL EQUIPAMIENTO,dpto de ingenieria de alimentos y del equipamiento,20101,,"724,0000",,,,universidad politecnica de cartagena,30,NIF MCIN,0.11111111,8286,None,30.0,0.11111111
+8287,UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE,ACT_NAC,564480,dpto de ingenieria de computadores,,1,DPTO. DE INGENIERÍA DE COMPUTADORES,dpto de ingenieria de computadores,20101,,"724,0000",,,,universidad miguel hernandez de elche,3,NIF MCIN,0.15789473,8287,None,46.0,0.15789473
+8288,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,203138,dpto de ingenieria de la informacion y de las comunicaciones,,1,DPTO. DE INGENIERIA DE LA INFORMACION Y DE LAS COMUNICACIONES,dpto de ingenieria de la informacion y de las comunicaciones,29999,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.37254903,8288,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.37254903
+8289,UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE,ACT_NAC,137383,dpto de ingenieria de sistemas y automatica,,1,DPTO. DE INGENIERIA DE SISTEMAS Y AUTOMATICA,dpto de ingenieria de sistemas y automatica,29999,,"724,0000",,,,universidad miguel hernandez de elche,3,NIF MCIN,0.08510638,8289,None,46.0,0.08510638
+8290,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,616283,dpto de isquemia cerebral y neurodegeneracion,,1,DPTO. DE ISQUEMIA CEREBRAL Y NEURODEGENERACION,dpto de isquemia cerebral y neurodegeneracion,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.31578946,8290,INSTITUTO BOTANICO DE BARCELONA,8.0,0.31578946
+8291,UNIVERSIDAD DE SEVILLA,ACT_NAC,460217,dpto de lenguajes y sistemas informaticos,,1,DPTO. DE LENGUAJES Y SISTEMAS INFORMATICOS,dpto de lenguajes y sistemas informaticos,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.08888889,8291,None,41.0,0.08888889
+8292,CENTRO DE INVESTIGACION ENERGETICA MEDIOAMBIENTAL Y TECNOLOGICA (CIEMAT),ACT_NAC,705813,dpto de medio ambiente,,1,DPTO. DE MEDIO AMBIENTE,dpto de medio ambiente,20501,,"724,0000",,,,centro de investigaciones energeticas medioambientales y tecnologicas ciemat,28,NIF MCIN,0.15384616,8292,None,8.0,0.15384616
+8293,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,416092,dpto de microbiologia del suelo y sistemas simbioticos,,1,DPTO. DE MICROBIOLOGIA DEL SUELO Y SISTEMAS SIMBIOTICOS,dpto de microbiologia del suelo y sistemas simbioticos,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.28235295,8293,INSTITUTO BOTANICO DE BARCELONA,8.0,0.28235295
+8294,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,398748,dpto de prehistoria,,1,DPTO. DE PREHISTORIA,dpto de prehistoria,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.26229507,8294,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.26229507
+8295,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,599755,dpto de sanidad animal,,1,DPTO. DE SANIDAD ANIMAL,dpto de sanidad animal,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.15384616,8295,None,28.0,0.15384616
+8296,UNIVERSITAT POMPEU FABRA CCT,ACT_NAC,399169,dpto de tecnologias de la informacion y las comunicaciones,,1,DPTO. DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES,dpto de tecnologias de la informacion y las comunicaciones,20101,,"724,0000",,,,universidad pompeu fabra,8,NIF MCIN,0.12903225,8296,None,8.0,0.12903225
+8297,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,617715,dpto de teoria del senyal i comunicacions tsc,,1,DPTO. DE TEORIA DEL SENYAL I COMUNICACIONS (TSC),dpto de teoria del senyal i comunicacions tsc,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.14814815,8297,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.14814815
+8298,UNIVERSIDAD DE BARCELONA,ACT_NAC,479104,dpto derecho constitucional y ciencia politica,,1,DPTO. DERECHO CONSTITUCIONAL Y CIENCIA POLITICA,dpto derecho constitucional y ciencia politica,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.12,8298,None,8.0,0.12
+8299,UNIVERSIDAD DE OVIEDO,ACT_NAC,25382,dpto derecho publico,,1,DPTO. DERECHO PÚBLICO,dpto derecho publico,20101,,"724,0000",,,,universidad de oviedo,33,NIF MCIN,0.16666667,8299,None,33.0,0.16666667
+8300,UNIVERSIDAD AUTONOMA DE MADRID,ACT_NAC,477052,dpto derecho publico y filosofia juridica,,1,DPTO. DERECHO PUBLICO Y FILOSOFIA JURIDICA,dpto derecho publico y filosofia juridica,20101,,"724,0000",,,,universidad autonoma de madrid,28,NIF MCIN,0.3783784,8300,INSTITUTO DE CIENCIAS MATEMATICAS,28.0,0.3783784
+8301,UNIVERSIDAD AUTONOMA DE MADRID,ACT_NAC,616693,dpto ecologia,,1,DPTO. ECOLOGIA,dpto ecologia,20101,,"724,0000",,,,universidad autonoma de madrid,28,NIF MCIN,0.3043478,8301,INSTITUTO DE CIENCIAS MATEMATICAS,28.0,0.3043478
+8302,UNIVERSIDAD CARLOS III DE MADRID,ACT_NAC,25494,dpto economia de la empresa,,1,DPTO. ECONOMIA DE LA EMPRESA,dpto economia de la empresa,20101,,"724,0000",,,,universidad carlos iii de madrid,28,NIF MCIN,0.19354838,8302,None,28.0,0.19354838
+8303,UNIVERSIDAD DE LAS ISLAS BALEARES,ACT_NAC,80844,dpto economia y empresa,,1,DPTO. ECONOMIA Y EMPRESA,dpto economia y empresa,20101,,"724,0000",,,,universitat de les illes balears,7,NIF MCIN,0.26506025,8303,INSTITUTO MEDITERRANEO DE ESTUDIOS AVANZADOS IMEDEA UIB CSIC,7.0,0.26506025
+8304,UNIVERSIDAD DE ALCALA,ACT_NAC,601503,dpto educacion,,1,DPTO. EDUCACION,dpto educacion,20101,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.22222222,8304,None,28.0,0.22222222
+8305,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,431286,dpto estadistica e investigacion operativa,,1,DPTO. ESTADISTICA E INVESTIGACION OPERATIVA,dpto estadistica e investigacion operativa,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.20952381,8305,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.20952381
+8306,UNIVERSIDAD DE BARCELONA,ACT_NAC,600556,dpto filologia inglesa y alemana,,1,DPTO. FILOLOGIA INGLESA Y ALEMANA,dpto filologia inglesa y alemana,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.11111111,8306,None,8.0,0.11111111
+8307,UNIVERSIDAD DE GRANADA,ACT_NAC,321404,dpto fisica aplicada,,1,DPTO. FISICA APLICADA,dpto fisica aplicada,20101,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.2631579,8307,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.2631579
+8308,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,562840,dpto fisica e ingenieria nuclear,,1,DPTO. FISICA E INGENIERIA NUCLEAR,dpto fisica e ingenieria nuclear,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.33684212,8308,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.33684212
+8309,UNIVERSIDAD DE BARCELONA,ACT_NAC,434721,dpto fisicoquimica,,1,DPTO. FISICOQUIMICA,dpto fisicoquimica,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.09090909,8309,None,8.0,0.09090909
+8310,UNIVERSIDAD DE CORDOBA,ACT_NAC,646525,dpto genetica,,1,DPTO. GENETICA,dpto genetica,20101,,"724,0000",,,,universidad de cordoba,14,NIF MCIN,0.3529412,8310,None,14.0,0.3529412
+8311,UNIVERSIDAD DE SEVILLA,ACT_NAC,617355,dpto geografia fisica y analisis geografico regional,,1,DPTO. GEOGRAFIA FISICA Y ANALISIS GEOGRAFICO REGIONAL,dpto geografia fisica y analisis geografico regional,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.10714286,8311,None,41.0,0.10714286
+8312,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,599932,dpto historia contemporanea,,1,DPTO. HISTORIA CONTEMPORANEA,dpto historia contemporanea,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.19354838,8312,None,28.0,0.19354838
+8313,UNIVERSIDAD DE SALAMANCA,ACT_NAC,600059,dpto historia medieval moderna y contemporanea,,1,"DPTO. HISTORIA MEDIEVAL, MODERNA Y CONTEMPORANEA",dpto historia medieval moderna y contemporanea,20101,,"724,0000",,,,universidad de salamanca,37,NIF MCIN,0.38636363,8313,INSTITUTO DE BIOLOGIA FUNCIONAL Y GENOMICA,37.0,0.38636363
+8314,Universidad de Granada,ACT_NAC,26016,dpto historia moderna y de america,,1,DPTO. HISTORIA MODERNA Y DE AMÉRICA,dpto historia moderna y de america,20101,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.2888889,8314,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.2888889
+8315,UNIVERSIDAD DE LLEIDA,ACT_NAC,600304,dpto hortofruticultura botanica y jardineria,,1,"DPTO. HORTOFRUTICULTURA, BOTANICA Y JARDINERIA",dpto hortofruticultura botanica y jardineria,20101,,"724,0000",,,,universitat de lleida,25,NIF MCIN,0.27027026,8315,FUNDACIO UNIVERSITAT DE LLEIDA,25.0,0.27027026
+8316,UNIVERSIDAD DE ALMERIA,ACT_NAC,454903,dpto ingenieria,,1,DPTO. INGENIERIA,dpto ingenieria,20101,,"724,0000",,,,universidad de almeria,4,NIF MCIN,0.31578946,8316,None,4.0,0.31578946
+8317,UNIVERSIDAD DE MÁLAGA,ACT_NAC,29210,dpto ingenieria de sistemas y automatica,,1,DPTO. INGENIERIA DE SISTEMAS Y AUTOMATICA,dpto ingenieria de sistemas y automatica,29999,,"724,0000",,,,universidad de malaga,29,NIF MCIN,0.09090909,8317,None,29.0,0.09090909
+8318,UNIVERSIDAD DE LA RIOJA,ACT_NAC,563700,dpto ingenieria mecanica,,1,DPTO. INGENIERIA MECANICA,dpto ingenieria mecanica,20101,,"724,0000",,,,universidad de la rioja,26,NIF MCIN,0.21428572,8318,None,26.0,0.21428572
+8319,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,618363,dpto ingenieria quimica,,1,DPTO. INGENIERIA QUIMICA,dpto ingenieria quimica,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.33846155,8319,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.33846155
+8320,UNIVERSIDAD DE CANTABRIA,ACT_NAC,616938,dpto ingenieria quimica y quimica inorganica,,1,DPTO. INGENIERIA QUIMICA Y QUIMICA INORGANICA,dpto ingenieria quimica y quimica inorganica,20101,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.125,8320,None,39.0,0.125
+8321,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,286250,dpto ingenieria sistemas automatica e informat industrial,,1,"DPTO. INGENIERIA SISTEMAS, AUTOMATICA E INFORMAT. INDUSTRIAL",dpto ingenieria sistemas automatica e informat industrial,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.31666666,8321,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.31666666
+8322,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,322777,dpto matematica aplicada i,,1,DPTO. MATEMATICA APLICADA I,dpto matematica aplicada i,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.2247191,8322,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.2247191
+8323,UNIVERSIDAD DE CANTABRIA,ACT_NAC,322796,dpto matematicas estadistica y computacion,,1,"DPTO. MATEMATICAS, ESTADISTICA Y COMPUTACION",dpto matematicas estadistica y computacion,20101,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.08695652,8323,None,39.0,0.08695652
+8324,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,616241,dpto mejora genetica vegetal,,1,DPTO. MEJORA GENETICA VEGETAL,dpto mejora genetica vegetal,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.23728813,8324,INSTITUTO BOTANICO DE BARCELONA,8.0,0.23728813
+8325,UNIVERSIDAD DE VALENCIA,ACT_NAC,616942,dpto microbiologia,,1,DPTO. MICROBIOLOGIA,dpto microbiologia,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.16666667,8325,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.16666667
+8326,UNIVERSIDAD DE ZARAGOZA,ACT_NAC,616542,dpto microbiologia medicina preventiva y salud publica,,1,"DPTO. MICROBIOLOGIA, MEDICINA PREVENTIVA Y SALUD PUBLICA",dpto microbiologia medicina preventiva y salud publica,20101,,"724,0000",,,,universidad de zaragoza,50,NIF MCIN,0.21621622,8326,INSTITUTO DE SINTESIS QUIMICA Y CATALISIS HOMOGENEA (ISQCH),50.0,0.21621622
+8327,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,616963,dpto periodismo iii teoria general de la informacion,,1,DPTO. PERIODISMO III (TEORIA GENERAL DE LA INFORMACION),dpto periodismo iii teoria general de la informacion,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.10714286,8327,None,28.0,0.10714286
+8328,UNIVERSIDAD DE OVIEDO,ACT_NAC,323634,dpto psicologia,,1,DPTO. PSICOLOGIA,dpto psicologia,20101,,"724,0000",,,,universidad de oviedo,33,NIF MCIN,0.10526316,8328,None,33.0,0.10526316
+8329,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,616223,dpto psicologia basica i procesos basicos,,1,DPTO. PSICOLOGIA BASICA I (PROCESOS BASICOS),dpto psicologia basica i procesos basicos,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.08888889,8329,None,28.0,0.08888889
+8330,UNIVERSIDAD AUTONOMA DE MADRID,ACT_NAC,600295,dpto psicologia social y metodologia,,1,DPTO. PSICOLOGIA SOCIAL Y METODOLOGIA,dpto psicologia social y metodologia,20101,,"724,0000",,,,universidad autonoma de madrid,28,NIF MCIN,0.28985506,8330,INSTITUTO DE CIENCIAS MATEMATICAS,28.0,0.28985506
+8331,UNIVERSITAT JAUME I DE CASTELLO,ACT_NAC,600729,dpto quimica inorganica y organica,,1,DPTO. QUIMICA INORGANICA Y ORGANICA,dpto quimica inorganica y organica,20101,,"724,0000",,,,universidad jaume i de castellon,12,NIF MCIN,0.15789473,8331,None,12.0,0.15789473
+8332,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,477968,dpto quimica macromolecular,,1,DPTO. QUIMICA MACROMOLECULAR,dpto quimica macromolecular,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.31034482,8332,INSTITUTO BOTANICO DE BARCELONA,8.0,0.31034482
+8333,UNIVERSIDAD DE ALMERIA,ACT_NAC,274895,dpto quimica y fisica,,1,DPTO. QUIMICA Y FISICA,dpto quimica y fisica,20101,,"724,0000",,,,universidad de almeria,4,NIF MCIN,0.08,8333,None,4.0,0.08
+8334,UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE,ACT_NAC,646753,dpto salud publica historia de la ciencia y ginecologia,,1,"DPTO. SALUD PUBLICA, HISTORIA DE LA CIENCIA Y GINECOLOGIA",dpto salud publica historia de la ciencia y ginecologia,20101,,"724,0000",,,,universidad miguel hernandez de elche,3,NIF MCIN,0.10169491,8334,None,46.0,0.10169491
+8335,UNIVERSIDAD DE SALAMANCA,ACT_NAC,478626,dpto sociologia y comunicacion,,1,DPTO. SOCIOLOGIA Y COMUNICACION,dpto sociologia y comunicacion,20101,,"724,0000",,,,universidad de salamanca,37,NIF MCIN,0.4722222,8335,INSTITUTO DE BIOLOGIA FUNCIONAL Y GENOMICA,37.0,0.4722222
+8336,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,599515,dpto suelo y agua,,1,DPTO SUELO Y AGUA,dpto suelo y agua,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.29166666,8336,INSTITUTO BOTANICO DE BARCELONA,8.0,0.29166666
+8337,UNIVERSIDAD DE CANTABRIA,ACT_NAC,418046,dpto tecnologia electronica ingenieria de sistemas y automatica,,1,"DPTO. TECNOLOGIA ELECTRONICA, INGENIERIA DE SISTEMAS Y AUTOMATICA",dpto tecnologia electronica ingenieria de sistemas y automatica,20101,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.11940298,8337,None,39.0,0.11940298
+8338,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,566478,e t s de ingenieria de montes forestal y del medio natural,,1,"E.T.S. DE INGENIERÍA DE MONTES, FORESTAL Y DEL MEDIO NATURAL",e t s de ingenieria de montes forestal y del medio natural,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.33707866,8338,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.33707866
+8339,UNIVERSIDAD DE VALENCIA,ACT_NAC,265566,eri de biotecnologia y biomedicina biotecmed,,1,ERI DE BIOTECNOLOGIA Y BIOMEDICINA(BIOTECMED),eri de biotecnologia y biomedicina biotecmed,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.18367347,8339,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.18367347
+8340,UNIVERSIDAD DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSITATEA,ACT_NAC,565720,escuela de ingenieria de bilbao,,1,ESCUELA DE INGENIERÍA DE BILBAO,escuela de ingenieria de bilbao,20101,,"724,0000",,,,universidad del pais vasco euskal herriko unibertsitatea,48,NIF MCIN,0.114285715,8340,None,20.0,0.114285715
+8341,UNIVERSIDAD DE EXTREMADURA (UEX),ACT_NAC,327703,escuela de ingenierias industriales,,1,Escuela de Ingenierías Industriales,escuela de ingenierias industriales,20101,,"724,0000",,,,universidad de extremadura,6,NIF MCIN,0.15384616,8341,None,6.0,0.15384616
+8342,Universidad Rey Juan Carlos,ACT_NAC,345221,escuela de masteres oficiales,,1,Escuela de Másteres Oficiales,escuela de masteres oficiales,20101,,"724,0000",,,,universidad rey juan carlos,28,NIF MCIN,0.121212125,8342,None,28.0,0.121212125
+8343,INSTITUTO DE SALUD CARLOS III DE MADRID (ISCIII),ACT_NAC,755495,escuela nacional de sanidad,,1,ESCUELA NACIONAL DE SANIDAD,escuela nacional de sanidad,20501,,"724,0000",,,,instituto de salud carlos iii isciii,28,NIF MCIN,0.23880596,8343,CIBER ENFERMEDADES RESPIRATORIAS CIBERES,20.0,0.23880596
+8344,UNIVERSIDADE DA CORUÑA,ACT_NAC,564726,escuela politecnica superior,,1,ESCUELA POLITECNICA SUPERIOR,escuela politecnica superior,20101,,"724,0000",,,,universidad de a coruna,15,NIF MCIN,0.33333334,8344,CENTRO DE INVESTIGACIONES TECNOLOGICAS,15.0,0.33333334
+8345,Universitat Politècnica de València,ACT_NAC,348141,escuela politecnica superior de alcoy,,1,Escuela Politécnica Superior de Alcoy,escuela politecnica superior de alcoy,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.14634146,8345,None,46.0,0.14634146
+8346,UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,ACT_NAC,460343,escuela politecnica superior lugo,,1,ESCUELA POLITECNICA SUPERIOR. LUGO,escuela politecnica superior lugo,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.10810811,8346,None,15.0,0.10810811
+8347,UNIVERSIDAD REY JUAN CARLOS,ACT_NAC,25398,escuela superior de ciencias experimentales y tecnologia,,1,ESCUELA SUPERIOR DE CIENCIAS EXPERIMENTALES Y TECNOLOGIA,escuela superior de ciencias experimentales y tecnologia,20101,,"724,0000",,,,universidad rey juan carlos,28,NIF MCIN,0.06666667,8347,None,28.0,0.06666667
+8348,UNIVERSIDAD DE CADIZ,ACT_NAC,416012,escuela superior de ingenieria de cadiz,,1,ESCUELA SUPERIOR DE INGENIERIA DE CADIZ,escuela superior de ingenieria de cadiz,20101,,"724,0000",,,,universidad de cadiz,11,NIF MCIN,0.2820513,8348,CENTRO DE ESTUDIOS PAISAJE Y TERRITORIO,41.0,0.2820513
+8349,Universidad de La Laguna,ACT_NAC,345496,escuela superior de ingenieria y tecnolo,,1,Escuela Superior de Ingeniería y Tecnolo,escuela superior de ingenieria y tecnolo,20101,,"724,0000",,,,universidad de la laguna,38,NIF MCIN,0.31578946,8349,INSTITUTO DE ASTROFISICA DE CANARIAS,38.0,0.31578946
+8350,UNIVERSIDAD DE CANTABRIA,ACT_NAC,33399,escuela superior de la marina civil,,1,ESCUELA SUPERIOR DE LA MARINA CIVIL,escuela superior de la marina civil,29999,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.051282052,8350,None,39.0,0.051282052
+8351,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,31383,escuela t s ingenieros informaticos upm,,1,ESCUELA T.S.INGENIEROS INFORMATICOS (UPM),escuela t s ingenieros informaticos upm,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.37142858,8351,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.37142858
+8352,Universidad Politécnica de Catalunya,ACT_NAC,742630,escuela tecnica superior de arquitectura,,1,Escuela Técnica Superior de Arquitectura,escuela tecnica superior de arquitectura,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.23300971,8352,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.23300971
+8353,UNIVERSIDAD DE CANTABRIA,ACT_NAC,137622,escuela tecnica superior de ing caminos canales y puertos,,1,"ESCUELA TECNICA SUPERIOR DE ING. CAMINOS, CANALES Y PUERTOS",escuela tecnica superior de ing caminos canales y puertos,20101,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.13114753,8353,None,39.0,0.13114753
+8354,UNIVERSITAT ROVIRA I VIRGILI,ACT_NAC,567342,escuela tecnica superior de ingenieria,,1,ESCUELA TECNICA SUPERIOR DE INGENIERIA,escuela tecnica superior de ingenieria,20101,,"724,0000",,,,universidad rovira i virgili,43,NIF MCIN,0.1904762,8354,None,43.0,0.1904762
+8355,Universidad de Málaga,ACT_NAC,348429,escuela tecnica superior de ingenieria d,,1,Escuela Técnica Superior de Ingeniería d,escuela tecnica superior de ingenieria d,20101,,"724,0000",,,,universidad de malaga,29,NIF MCIN,0.18181819,8355,None,29.0,0.18181819
+8356,Universidad Pública de Navarra,ACT_NAC,741628,escuela tecnica superior de ingenieria i,,1,Escuela Técnica Superior de Ingeniería I,escuela tecnica superior de ingenieria i,20101,,"724,0000",,,,universidad publica de navarra,31,NIF MCIN,0.18181819,8356,None,31.0,0.18181819
+8357,UNIVERSIDAD DE LA RIOJA,ACT_NAC,78880,escuela tecnica superior de ingenieria industrial,,1,ESCUELA TECNICA SUPERIOR DE INGENIERIA INDUSTRIAL,escuela tecnica superior de ingenieria industrial,29999,,"724,0000",,,,universidad de la rioja,26,NIF MCIN,0.1509434,8357,None,26.0,0.1509434
+8358,UNIVERSIDAD DE MÁLAGA,ACT_NAC,141443,escuela tecnica superior de ingenieria informatica,,1,ESCUELA TECNICA SUPERIOR DE INGENIERIA INFORMATICA,escuela tecnica superior de ingenieria informatica,20101,,"724,0000",,,,universidad de malaga,29,NIF MCIN,0.14814815,8358,None,29.0,0.14814815
+8359,UNIVERSIDAD DE SEVILLA,ACT_NAC,272911,escuela tecnica superior de ingenieros,,1,ESCUELA TECNICA SUPERIOR DE INGENIEROS,escuela tecnica superior de ingenieros,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.1904762,8359,None,41.0,0.1904762
+8360,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,398504,escuela tecnica superior de ingenieros aeronauticos,,1,ESCUELA TECNICA SUPERIOR DE INGENIEROS AERONAUTICOS,escuela tecnica superior de ingenieros aeronauticos,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.36585367,8360,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.36585367
+8361,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,285081,escuela tecnica superior de ingenieros de montes,,1,ESCUELA TECNICA SUPERIOR DE INGENIEROS DE MONTES,escuela tecnica superior de ingenieros de montes,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.35443038,8361,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.35443038
+8362,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,563881,escuela tecnica superior de ingenieros de telecomunicacion,,1,ESCUELA TECNICA SUPERIOR DE INGENIEROS DE TELECOMUNICACION,escuela tecnica superior de ingenieros de telecomunicacion,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.35955057,8362,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.35955057
+8363,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,285509,escuela tecnica superior de ingenieros industriales,,1,ESCUELA TECNICA SUPERIOR DE INGENIEROS INDUSTRIALES,escuela tecnica superior de ingenieros industriales,20101,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.14545454,8363,None,45.0,0.14545454
+8364,UNIVERSIDAD DE SEVILLA,ACT_NAC,288513,escuela universitaria arquitectura tecnica,,1,ESCUELA UNIVERSITARIA ARQUITECTURA TECNICA,escuela universitaria arquitectura tecnica,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.08695652,8364,None,41.0,0.08695652
+8365,Universidad de A Coruña,ACT_NAC,347290,escuela universitaria de relaciones labo,,1,Escuela Universitaria de Relaciones Labo,escuela universitaria de relaciones labo,20101,,"724,0000",,,,universidad de a coruna,15,NIF MCIN,0.4871795,8365,CENTRO DE INVESTIGACIONES TECNOLOGICAS,15.0,0.4871795
+8366,UNIVERSIDAD DE VIGO,ACT_NAC,80821,escuela universitaria estudios empresariales,,1,ESCUELA UNIVERSITARIA ESTUDIOS EMPRESARIALES,escuela universitaria estudios empresariales,29999,,"724,0000",,,,universidad de vigo,36,NIF MCIN,0.125,8366,None,36.0,0.125
+8367,CSIC,ACT_NAC,130584,estacion biologica de donana,,1,ESTACION BIOLÓGICA DE DOÑANA,estacion biologica de donana,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5423729,8367,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5423729
+8368,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,449336,estacion biologica de donana ebd,,1,ESTACION BIOLOGICA DE DOÑANA (EBD),estacion biologica de donana ebd,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.50793654,8368,INSTITUTO BOTANICO DE BARCELONA,8.0,0.50793654
+8369,UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,ACT_NAC,444270,estacion de hidrobioloxia encoro do con,,1,ESTACION DE HIDROBIOLOXIA ENCORO DO CON,estacion de hidrobioloxia encoro do con,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.13953489,8369,None,15.0,0.13953489
+8370,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,486434,estacion experimental de zonas aridas,,1,ESTACION EXPERIMENTAL DE ZONAS ARIDAS,estacion experimental de zonas aridas,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.4117647,8370,INSTITUTO BOTANICO DE BARCELONA,8.0,0.4117647
+8371,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,751325,estacion experimental del zaidin eez,,1,ESTACION EXPERIMENTAL DEL ZAIDIN (EEZ),estacion experimental del zaidin eez,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.3880597,8371,INSTITUTO BOTANICO DE BARCELONA,8.0,0.3880597
+8372,UNIVERSITAT DE GIRONA,ACT_NAC,562193,fac de medicina,,1,FAC. DE MEDICINA,fac de medicina,20101,,"724,0000",,,,universitat de girona,17,NIF MCIN,0.10526316,8372,None,17.0,0.10526316
+8373,Universitat Politècnica de València,ACT_NAC,741659,facultad de bellas artes san carlos,,1,Facultad de Bellas Artes San Carlos,facultad de bellas artes san carlos,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.102564104,8373,None,46.0,0.102564104
+8374,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,355964,facultad de biociencias,,1,FACULTAD DE BIOCIENCIAS,facultad de biociencias,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.36923078,8374,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.36923078
+8375,UNIVERSIDAD DE MURCIA,ACT_NAC,264835,facultad de biologia,,1,FACULTAD DE BIOLOGIA,facultad de biologia,20101,,"724,0000",,,,universidad de murcia,30,NIF MCIN,0.083333336,8375,None,30.0,0.083333336
+8376,UNIVERSIDAD DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSITATEA,ACT_NAC,708882,facultad de ciencia y tecnologia,,1,FACULTAD DE CIENCIA Y TECNOLOGIA,facultad de ciencia y tecnologia,20101,,"724,0000",,,,universidad del pais vasco euskal herriko unibertsitatea,48,NIF MCIN,0.11111111,8376,None,20.0,0.11111111
+8377,Universidad de A Coruña,ACT_NAC,740591,facultad de ciencias,,1,Facultad de Ciencias,facultad de ciencias,20101,,"724,0000",,,,universidad de a coruna,15,NIF MCIN,0.44827586,8377,CENTRO DE INVESTIGACIONES TECNOLOGICAS,15.0,0.44827586
+8378,Universidad Complutense de Madrid,ACT_NAC,345426,facultad de ciencias biologicas,,1,Facultad de Ciencias Biológicas,facultad de ciencias biologicas,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.114285715,8378,None,28.0,0.114285715
+8379,Universidad de Sevilla,ACT_NAC,737721,facultad de ciencias de la educacion,,1,Facultad de Ciencias de la Educación,facultad de ciencias de la educacion,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.15,8379,None,41.0,0.15
+8380,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,135742,facultad de ciencias de la informacion,,1,FACULTAD DE CIENCIAS DE LA INFORMACION,facultad de ciencias de la informacion,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.14285715,8380,None,28.0,0.14285715
+8381,UNIVERSIDAD DE ALICANTE,ACT_NAC,31360,facultad de ciencias de la salud alicante,,1,FACULTAD DE CIENCIAS DE LA SALUD ALICANTE,facultad de ciencias de la salud alicante,20101,,"724,0000",,,,universidad de alicante,3,NIF MCIN,0.13333334,8381,None,3.0,0.13333334
+8382,UNIVERSIDAD PUBLICA DE NAVARRA,ACT_NAC,31304,facultad de ciencias de la salud upn,,1,FACULTAD DE CIENCIAS DE LA SALUD- UPN,facultad de ciencias de la salud upn,20101,,"724,0000",,,,universidad publica de navarra,31,NIF MCIN,0.1,8382,None,31.0,0.1
+8383,UNIVERSIDAD DE VIGO,ACT_NAC,448696,facultad de ciencias del mar,,1,FACULTAD DE CIENCIAS DEL MAR,facultad de ciencias del mar,20101,,"724,0000",,,,universidad de vigo,36,NIF MCIN,0.125,8383,None,36.0,0.125
+8384,UNIVERSIDAD DE CADIZ,ACT_NAC,458574,facultad de ciencias del mar y ambientales,,1,FACULTAD DE CIENCIAS DEL MAR Y AMBIENTALES,facultad de ciencias del mar y ambientales,20101,,"724,0000",,,,universidad de cadiz,11,NIF MCIN,0.39506173,8384,CENTRO DE ESTUDIOS PAISAJE Y TERRITORIO,41.0,0.39506173
+8385,Universidad de Alicante,ACT_NAC,738064,facultad de ciencias economicas y empres,,1,Facultad de Ciencias Económicas y Empres,facultad de ciencias economicas y empres,20101,,"724,0000",,,,universidad de alicante,3,NIF MCIN,0.13636364,8385,None,3.0,0.13636364
+8386,UNIVERSIDADE DA CORUÑA,ACT_NAC,444794,facultad de ciencias economicas y empresariales,,1,FACULTAD DE CIENCIAS ECONOMICAS Y EMPRESARIALES,facultad de ciencias economicas y empresariales,20101,,"724,0000",,,,universidad de a coruna,15,NIF MCIN,0.3529412,8386,CENTRO DE INVESTIGACIONES TECNOLOGICAS,15.0,0.3529412
+8387,UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE,ACT_NAC,752020,facultad de ciencias experimentales,,1,FACULTAD DE CIENCIAS EXPERIMENTALES,facultad de ciencias experimentales,20101,,"724,0000",,,,universidad miguel hernandez de elche,3,NIF MCIN,0.15384616,8387,None,46.0,0.15384616
+8388,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,156543,facultad de ciencias fisicas,,1,FACULTAD DE CIENCIAS FISICAS,facultad de ciencias fisicas,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.0625,8388,None,28.0,0.0625
+8389,Universidad Complutense de Madrid,ACT_NAC,252739,facultad de ciencias geologicas,,1,Facultad de Ciencias Geológicas,facultad de ciencias geologicas,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.114285715,8389,None,28.0,0.114285715
+8390,UNIVERSITAT ROVIRA I VIRGILI,ACT_NAC,202113,facultad de ciencias juridicas,,1,FACULTAD DE CIENCIAS JURIDICAS,facultad de ciencias juridicas,20101,,"724,0000",,,,universidad rovira i virgili,43,NIF MCIN,0.05882353,8390,None,43.0,0.05882353
+8391,Universidad de Vigo,ACT_NAC,347745,facultad de ciencias juridicas y del tra,,1,Facultad de Ciencias Jurídicas y del Tra,facultad de ciencias juridicas y del tra,20101,,"724,0000",,,,universidad de vigo,36,NIF MCIN,0.09090909,8391,None,36.0,0.09090909
+8392,Universidad de La Rioja,ACT_NAC,345269,facultad de ciencias juridicas y sociale,,1,Facultad de Ciencias Jurídicas y Sociale,facultad de ciencias juridicas y sociale,20101,,"724,0000",,,,universidad de la rioja,26,NIF MCIN,0.13636364,8392,None,26.0,0.13636364
+8393,UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,ACT_NAC,80424,facultad de ciencias lugo,,1,FACULTAD DE CIENCIAS. LUGO,facultad de ciencias lugo,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.13793103,8393,None,15.0,0.13793103
+8394,82-UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,701019,facultad de ciencias matematicas,,1,Facultad de CIencias Matemáticas,facultad de ciencias matematicas,29900,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.11111111,8394,None,28.0,0.11111111
+8395,Universidad Complutense de Madrid,ACT_NAC,344713,facultad de ciencias politicas y sociolo,,1,Facultad de Ciencias Políticas y Sociolo,facultad de ciencias politicas y sociolo,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.09090909,8395,None,28.0,0.09090909
+8396,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,458749,facultad de ciencias quimicas,,1,FACULTAD DE CIENCIAS QUIMICAS,facultad de ciencias quimicas,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.060606062,8396,None,28.0,0.060606062
+8397,Universitat de València (Estudi General),ACT_NAC,346528,facultad de ciencias sociales,,1,Facultad de Ciencias Sociales,facultad de ciencias sociales,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.28915662,8397,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.28915662
+8398,Universidad de Zaragoza,ACT_NAC,740970,facultad de ciencias sociales y humanas,,1,Facultad de Ciencias Sociales y Humanas,facultad de ciencias sociales y humanas,20101,,"724,0000",,,,universidad de zaragoza,50,NIF MCIN,0.3125,8398,INSTITUTO DE SINTESIS QUIMICA Y CATALISIS HOMOGENEA (ISQCH),50.0,0.3125
+8399,Universidad Carlos III de Madrid,ACT_NAC,547205,facultad de ciencias sociales y juridicas,,1,Facultad de Ciencias Sociales y Jurídicas,facultad de ciencias sociales y juridicas,20101,,"724,0000",,,,universidad carlos iii de madrid,28,NIF MCIN,0.13333334,8399,None,28.0,0.13333334
+8400,UNIVERSIDAD MIGUEL HERNANDEZ DE ELCHE,ACT_NAC,445643,facultad de ciencias sociosanitarias,,1,FACULTAD DE CIENCIAS SOCIOSANITARIAS,facultad de ciencias sociosanitarias,20101,,"724,0000",,,,universidad miguel hernandez de elche,3,NIF MCIN,0.15,8400,None,46.0,0.15
+8401,UNIVERSIDAD AUTONOMA DE MADRID,ACT_NAC,273036,facultad de derecho,,1,FACULTAD DE DERECHO,facultad de derecho,20101,,"724,0000",,,,universidad autonoma de madrid,28,NIF MCIN,0.23076923,8401,INSTITUTO DE CIENCIAS MATEMATICAS,28.0,0.23076923
+8402,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,136411,facultad de economia,,1,FACULTAD DE ECONOMIA,facultad de economia,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.38709676,8402,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.38709676
+8403,Universidad de Barcelona,ACT_NAC,348688,facultad de economia y empresa,,1,Facultad de Economía y Empresa,facultad de economia y empresa,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.1764706,8403,None,8.0,0.1764706
+8404,Universidad de Murcia,ACT_NAC,742215,facultad de educacion,,1,Facultad de Educación,facultad de educacion,20101,,"724,0000",,,,universidad de murcia,30,NIF MCIN,0.16,8404,None,30.0,0.16
+8405,Universidad de Huelva,ACT_NAC,739277,facultad de educacion psicologia y cien,,1,"Facultad de Educación, Psicología y Cien",facultad de educacion psicologia y cien,20101,,"724,0000",,,,universidad de huelva,21,NIF MCIN,0.13953489,8405,None,21.0,0.13953489
+8406,Universidad de Huelva,ACT_NAC,347148,facultad de enfermeria,,1,Facultad de Enfermería,facultad de enfermeria,20101,,"724,0000",,,,universidad de huelva,21,NIF MCIN,0.15384616,8406,None,21.0,0.15384616
+8407,Universidad Complutense de Madrid,ACT_NAC,344903,facultad de estudios estadisticos,,1,Facultad de Estudios Estadísticos,facultad de estudios estadisticos,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.10810811,8407,None,28.0,0.10810811
+8408,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,449473,facultad de farmacia,,1,FACULTAD DE FARMACIA,facultad de farmacia,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.083333336,8408,None,28.0,0.083333336
+8409,UNIVERSIDAD DE NAVARRA,ACT_NAC,207701,facultad de farmacia y nutricion de pamplona,,1,FACULTAD DE FARMACIA Y NUTRICION DE PAMPLONA,facultad de farmacia y nutricion de pamplona,20101,,"724,0000",,,,universidad de navarra,31,NIF MCIN,0.30769232,8409,FUNDACION PARA LA INVESTIGACION MEDICA APLICADA,31.0,0.30769232
+8410,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,274007,facultad de filologia,,1,FACULTAD DE FILOLOGIA,facultad de filologia,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.08,8410,None,28.0,0.08
+8411,Universidad Complutense de Madrid,ACT_NAC,739668,facultad de filosofia,,1,Facultad de Filosofía,facultad de filosofia,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.08,8411,None,28.0,0.08
+8412,UNIVERSIDAD DE ALCALA,ACT_NAC,444962,facultad de filosofia y letras,,1,FACULTAD DE FILOSOFIA Y LETRAS,facultad de filosofia y letras,20101,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.11764706,8412,None,28.0,0.11764706
+8413,UNIVERSIDAD DE BARCELONA,ACT_NAC,33242,facultad de fisica,,1,FACULTAD DE FISICA,facultad de fisica,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.09090909,8413,None,8.0,0.09090909
+8414,Universidad de Barcelona,ACT_NAC,742661,facultad de geografia e historia,,1,Facultad de Geografía e Historia,facultad de geografia e historia,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.11111111,8414,None,8.0,0.11111111
+8415,UNIVERSIDAD DE BARCELONA,ACT_NAC,455987,facultad de geologia,,1,FACULTAD DE GEOLOGIA,facultad de geologia,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.083333336,8415,None,8.0,0.083333336
+8416,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,705811,facultad de humanidades toledo,,1,FACULTAD DE HUMANIDADES. TOLEDO,facultad de humanidades toledo,20101,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.1764706,8416,None,45.0,0.1764706
+8417,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,460208,facultad de informatica,,1,FACULTAD DE INFORMATICA,facultad de informatica,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.14814815,8417,None,28.0,0.14814815
+8418,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,273834,facultad de letras,,1,FACULTAD DE LETRAS,facultad de letras,20101,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.09090909,8418,None,45.0,0.09090909
+8419,Universidad Politécnica de Catalunya,ACT_NAC,348928,facultad de matematicas y estadistica,,1,Facultad de Matemáticas y Estadística,facultad de matematicas y estadistica,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.32,8419,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.32
+8420,UNIVERSIDAD AUTONOMA DE MADRID,ACT_NAC,203082,facultad de medicina,,1,FACULTAD DE MEDICINA,facultad de medicina,20101,,"724,0000",,,,universidad autonoma de madrid,28,NIF MCIN,0.33962265,8420,INSTITUTO DE CIENCIAS MATEMATICAS,28.0,0.33962265
+8421,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,29933,facultad de medicina ucm,,1,FACULTAD DE MEDICINA (UCM),facultad de medicina ucm,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.071428575,8421,None,28.0,0.071428575
+8422,Universidad de Barcelona,ACT_NAC,742696,facultad de medicina y ciencias de la sa,,1,Facultad de Medicina y Ciencias de la Sa,facultad de medicina y ciencias de la sa,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.13636364,8422,None,8.0,0.13636364
+8423,UNIVERSIDAD DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSITATEA,ACT_NAC,33722,facultad de medicina y odontologia,,1,FACULTAD DE MEDICINA Y ODONTOLOGIA,facultad de medicina y odontologia,29999,,"724,0000",,,,universidad del pais vasco euskal herriko unibertsitatea,48,NIF MCIN,0.15789473,8423,None,20.0,0.15789473
+8424,Universidad de Sevilla,ACT_NAC,740270,facultad de odontologia,,1,Facultad de Odontología,facultad de odontologia,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.14814815,8424,None,41.0,0.14814815
+8425,UNIVERSIDAD DE BARCELONA,ACT_NAC,285826,facultad de psicologia,,1,FACULTAD DE PSICOLOGIA,facultad de psicologia,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.07692308,8425,None,8.0,0.07692308
+8426,UNIVERSIDAD  DE SANTIAGO,ACT_NAC,279741,facultad de psicologia departamento psicologia clinica y psicobiologia,,1,Facultad de Psicología. Departamento Psicología Clínica y Psicobiología,facultad de psicologia departamento psicologia clinica y psicobiologia,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.08108108,8426,None,15.0,0.08108108
+8427,UNIVERSIDAD DE BARCELONA,ACT_NAC,695399,facultad de psicologia universidad de barcelona,,1,"Facultad de psicología, Universidad de Barcelona",facultad de psicologia universidad de barcelona,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.11764706,8427,None,8.0,0.11764706
+8428,UNIVERSIDAD DE BARCELONA,ACT_NAC,444529,facultad de quimica,,1,FACULTAD DE QUIMICA,facultad de quimica,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.08695652,8428,None,8.0,0.08695652
+8429,Universidad de Salamanca,ACT_NAC,251399,facultad de traduccion y documentacion,,1,Facultad de Traducción y Documentación,facultad de traduccion y documentacion,20101,,"724,0000",,,,universidad de salamanca,37,NIF MCIN,0.425,8429,INSTITUTO DE BIOLOGIA FUNCIONAL Y GENOMICA,37.0,0.425
+8430,UNIVERSIDAD AUTÓNOMA DE BARCELONA,ACT_NAC,692358,facultad de veterinaria,,1,Facultad de Veterinaria,facultad de veterinaria,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.4,8430,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.4
+8431,UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,ACT_NAC,429359,facultad de veterinaria lugo,,1,FACULTAD DE VETERINARIA. LUGO,facultad de veterinaria lugo,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.125,8431,None,15.0,0.125
+8432,UNIVERSIDAD DE BARCELONA,ACT_NAC,407364,facultad medicina u d bellvitge,,1,FACULTAD MEDICINA (U.D. BELLVITGE),facultad medicina u d bellvitge,20101,,"724,0000",,,,universitat de barcelona,8,NIF MCIN,0.114285715,8432,None,8.0,0.114285715
+8433,113-UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL),ACT_NAC,701727,facultat de filologia traduccio i comunicacio,,1,"Facultat de Filologia, Traducció i Comunicació",facultat de filologia traduccio i comunicacio,29900,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.24242425,8433,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.24242425
+8434,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,265262,facultat de filosofia i lletres,,1,FACULTAT DE FILOSOFIA I LLETRES,facultat de filosofia i lletres,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.38356164,8434,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.38356164
+8435,UNIVERSIDAD DE SANTIAGO DE COMPOSTELA,ACT_NAC,660376,faculty of arts humanities and cultures,,1,"Faculty of Arts, Humanities and Cultures",faculty of arts humanities and cultures,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.13953489,8435,None,15.0,0.13953489
+8436,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS (CSIC),ACT_NAC,660288,french national centre for scientific research universite paul sabatier,,1,French National Centre for Scientific Research & Université Paul Sabatier,french national centre for scientific research universite paul sabatier,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.29411766,8436,INSTITUTO BOTANICO DE BARCELONA,8.0,0.29411766
+8437,FUNDACIO INSTITUT DE BIOENGINYERIA DE CATALUNYA,ACT_NAC,435145,fundacion privada institut de bioenginyeria de catalunya,,1,FUNDACION PRIVADA INSTITUT DE BIOENGINYERIA DE CATALUNYA,fundacion privada institut de bioenginyeria de catalunya,20508,,"724,0000",,,,institut de bioenginyeria de catalunya,8,NIF MCIN,0.13333334,8437,None,8.0,0.13333334
+8438,UNIVERSIDAD DE ALCALA,ACT_NAC,273135,i u de investigacion en estudios latinoamericanos,,1,I.U.DE INVESTIGACIÓN EN ESTUDIOS LATINOAMERICANOS,i u de investigacion en estudios latinoamericanos,20101,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.11320755,8438,None,28.0,0.11320755
+8439,Universitat de les Illes Balears-UIB,ACT_NAC,592570,imedea,,1,IMEDEA,imedea,20101,,"724,0000",,,,universitat de les illes balears,7,NIF MCIN,0.18181819,8439,INSTITUTO MEDITERRANEO DE ESTUDIOS AVANZADOS IMEDEA UIB CSIC,7.0,0.18181819
+8440,82-UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,701576,informatica,,1,Informatica,informatica,29900,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.26666668,8440,None,28.0,0.26666668
+8441,UNIVERSIDAD DE CANTABRIA,ACT_NAC,135823,ingenierias quimica y biomolecular,,1,INGENIERIAS QUIMICA Y BIOMOLECULAR,ingenierias quimica y biomolecular,29999,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.15789473,8441,None,39.0,0.15789473
+8442,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,264362,institucion mila i fontanals imf,,1,INSTITUCION MILA I FONTANALS (IMF),institucion mila i fontanals imf,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.44444445,8442,INSTITUTO BOTANICO DE BARCELONA,8.0,0.44444445
+8443,FUNDACIO INSTITUT DE BIOENGINYERIA DE CATALUNYA,ACT_NAC,194217,institut de bioenginyeria de catalunya,,1,INSTITUT DE BIOENGINYERIA DE CATALUNYA,institut de bioenginyeria de catalunya,20508,,"724,0000",,,,institut de bioenginyeria de catalunya,8,NIF MCIN,0.1904762,8443,None,8.0,0.1904762
+8444,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,454293,institut de ciencia i tecnologia ambientals icta,,1,INSTITUT DE CIENCIA I TECNOLOGIA AMBIENTALS - ICTA,institut de ciencia i tecnologia ambientals icta,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.35555556,8444,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.35555556
+8445,UNIVERSITAT DE GIRONA,ACT_NAC,265405,institut de llengua i cultura catalanes,,1,INSTITUT DE LLENGUA I CULTURA CATALANES,institut de llengua i cultura catalanes,20101,,"724,0000",,,,universitat de girona,17,NIF MCIN,0.13953489,8445,None,17.0,0.13953489
+8446,FUNDACIO INSTITUT DE RECERCA BIOMEDICA (BARCELONA),ACT_NAC,419122,institut de recerca biomedica,,1,INSTITUT DE RECERCA BIOMEDICA,institut de recerca biomedica,20510,,"724,0000",,,,institut de recerca biomedica de barcelona,8,NIF MCIN,0.3030303,8446,MOLECULAR MODELING AND BIOINFORMATICS,None,0.3030303
+8447,UNIVERSITAT DE GIRONA,ACT_NAC,80705,institut de recerca en visio per computador i robotica vicorob,,1,INSTITUT DE RECERCA EN VISIÓ PER COMPUTADOR I ROBÒTICA (VICOROB),institut de recerca en visio per computador i robotica vicorob,29999,,"724,0000",,,,universitat de girona,17,NIF MCIN,0.09090909,8447,None,17.0,0.09090909
+8448,UNIVERSIDAD DE VALENCIA,ACT_NAC,644449,institut universitari d investigacio de politiques de benestar social polibenestar,,1,INSTITUT UNIVERSITARI D¿INVESTIGACIÓ DE POLÍTIQUES DE BENESTAR SOCIAL (POLIBENESTAR),institut universitari d investigacio de politiques de benestar social polibenestar,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.29411766,8448,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.29411766
+8449,INSTITUTO ARAGONES DE CIENCIAS DE LA SALUD,ACT_NAC,31664,instituto aragones de ciencias de la salud,,1,INSTITUTO ARAGONES DE CIENCIAS DE LA SALUD,instituto aragones de ciencias de la salud,20510,,"724,0000",,,,instituto aragones de ciencias de la salud,50,NIF MCIN,0.17391305,8449,None,50.0,0.17391305
+8450,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,566117,instituto cajal actual,,1,INSTITUTO CAJAL (ACTUAL),instituto cajal actual,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.49056605,8450,INSTITUTO BOTANICO DE BARCELONA,8.0,0.49056605
+8451,UNIVERSIDAD DE VALENCIA,ACT_NAC,407538,instituto cavanilles de biodiversidad y biologia evolutiva,,1,INSTITUTO CAVANILLES DE BIODIVERSIDAD Y BIOLOGIA EVOLUTIVA,instituto cavanilles de biodiversidad y biologia evolutiva,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.19642857,8451,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.19642857
+8452,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,415550,instituto cmt motores termicos,,1,INSTITUTO CMT MOTORES TERMICOS,instituto cmt motores termicos,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.1764706,8452,None,46.0,0.1764706
+8453,UNIVERSIDAD DE NAVARRA,ACT_NAC,31066,instituto cultura y sociedad,,1,INSTITUTO CULTURA Y SOCIEDAD,instituto cultura y sociedad,20101,,"724,0000",,,,universidad de navarra,31,NIF MCIN,0.34666666,8453,FUNDACION PARA LA INVESTIGACION MEDICA APLICADA,31.0,0.34666666
+8454,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,730386,instituto de agroquimica y tecnologia de alimentos iata,,1,INSTITUTO DE AGROQUIMICA Y TECNOLOGIA DE ALIMENTOS (IATA),instituto de agroquimica y tecnologia de alimentos iata,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5116279,8454,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5116279
+8455,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,429372,instituto de astrofisica de andalucia iaa,,1,INSTITUTO DE ASTROFISICA DE ANDALUCIA (IAA),instituto de astrofisica de andalucia iaa,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5555556,8455,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5555556
+8456,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,479947,instituto de automatica e informatica industrial ai2,,1,INSTITUTO DE AUTOMATICA E INFORMATICA INDUSTRIAL - AI2,instituto de automatica e informatica industrial ai2,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.10714286,8456,None,46.0,0.10714286
+8457,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,416144,instituto de biologia integrativa de sistemas,,1,INSTITUTO DE BIOLOGIA INTEGRATIVA DE SISTEMAS,instituto de biologia integrativa de sistemas,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5263158,8457,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5263158
+8458,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,444106,instituto de biologia molecular y celular de plantas p yufera ibmcp,,1,INSTITUTO DE BIOLOGIA MOLECULAR Y CELULAR DE PLANTAS P. YUFERA (IBMCP),instituto de biologia molecular y celular de plantas p yufera ibmcp,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.40816328,8458,INSTITUTO BOTANICO DE BARCELONA,8.0,0.40816328
+8459,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,486275,instituto de biologia molecular y celular del cancer ibmcc,,1,INSTITUTO DE BIOLOGIA MOLECULAR  Y CELULAR DEL CANCER (IBMCC),instituto de biologia molecular y celular del cancer ibmcc,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.4494382,8459,INSTITUTO BOTANICO DE BARCELONA,8.0,0.4494382
+8460,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS (CSIC),ACT_NAC,695449,instituto de biomedicina de valencia,,1,Instituto de Biomedicina de Valencia,instituto de biomedicina de valencia,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.6268657,8460,INSTITUTO BOTANICO DE BARCELONA,8.0,0.6268657
+8461,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,259753,instituto de catalisis y petroleoquimica icp,,1,INSTITUTO DE CATALISIS Y PETROLEOQUIMICA (ICP),instituto de catalisis y petroleoquimica icp,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.45333335,8461,INSTITUTO BOTANICO DE BARCELONA,8.0,0.45333335
+8462,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,477156,instituto de ciencia de materiales de barcelona icmab,,1,INSTITUTO DE CIENCIA DE MATERIALES DE BARCELONA  ICMAB,instituto de ciencia de materiales de barcelona icmab,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5952381,8462,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5952381
+8463,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,449746,instituto de ciencia de materiales de madrid icmm,,1,INSTITUTO DE CIENCIA DE MATERIALES DE MADRID (ICMM),instituto de ciencia de materiales de madrid icmm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.45,8463,INSTITUTO BOTANICO DE BARCELONA,8.0,0.45
+8464,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,460803,instituto de ciencia de materiales de sevilla icms,,1,INSTITUTO DE CIENCIA DE MATERIALES DE SEVILLA (ICMS),instituto de ciencia de materiales de sevilla icms,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.44444445,8464,INSTITUTO BOTANICO DE BARCELONA,8.0,0.44444445
+8465,UNIVERSIDAD DE VALENCIA,ACT_NAC,617866,instituto de ciencia molecular,,1,INSTITUTO DE CIENCIA MOLECULAR,instituto de ciencia molecular,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.30952382,8465,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.30952382
+8466,UNIVERSITAT DE VALÈNCIA (ESTUDI GENERAL),ACT_NAC,692389,instituto de ciencia molecular icmol universitat de valencia,,1,Instituto de Ciencia Molecular (ICMol) Universitat de València,instituto de ciencia molecular icmol universitat de valencia,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.33333334,8466,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.33333334
+8467,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,502293,instituto de ciencia y tecnologia de polimeros ictp,,1,INSTITUTO DE CIENCIA Y TECNOLOGIA DE POLIMEROS (ICTP),instituto de ciencia y tecnologia de polimeros ictp,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.4390244,8467,INSTITUTO BOTANICO DE BARCELONA,8.0,0.4390244
+8468,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,429582,instituto de ciencia y tecnologia del hormigon icitech,,1,INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL HORMIGÓN ICITECH,instituto de ciencia y tecnologia del hormigon icitech,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.13793103,8468,None,46.0,0.13793103
+8469,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,502068,instituto de ciencias de la construccion eduardo torroja ietcc,,1,INSTITUTO DE CIENCIAS DE LA CONSTRUCCION EDUARDO TORROJA (IETCC),instituto de ciencias de la construccion eduardo torroja ietcc,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.38709676,8469,INSTITUTO BOTANICO DE BARCELONA,8.0,0.38709676
+8470,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,272680,instituto de ciencias de la tierra jaume almera ictja,,1,INSTITUTO DE CIENCIAS DE LA TIERRA JAUME ALMERA (ICTJA),instituto de ciencias de la tierra jaume almera ictja,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.45238096,8470,INSTITUTO BOTANICO DE BARCELONA,8.0,0.45238096
+8471,CSIC,ACT_NAC,78629,instituto de ciencias del mar icm,,1,INSTITUTO DE CIENCIAS DEL MAR (ICM),instituto de ciencias del mar icm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5625,8471,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5625
+8472,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,478212,instituto de ciencias del patrimonio,,1,INSTITUTO DE CIENCIAS DEL PATRIMONIO,instituto de ciencias del patrimonio,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5671642,8472,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5671642
+8473,UNIVERSIDAD CARLOS III DE MADRID,ACT_NAC,202728,instituto de cultura y tecnologia miguel de unamuno,,1,INSTITUTO DE CULTURA Y TECNOLOGIA MIGUEL DE UNAMUNO,instituto de cultura y tecnologia miguel de unamuno,29999,,"724,0000",,,,universidad carlos iii de madrid,28,NIF MCIN,0.10909091,8473,None,28.0,0.10909091
+8474,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,137795,instituto de diseno para la fabricacion y produccion automatizada,,1,INSTITUTO DE DISEÑO PARA LA FABRICACION Y PRODUCCION AUTOMATIZADA,instituto de diseno para la fabricacion y produccion automatizada,29999,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.08695652,8474,None,46.0,0.08695652
+8475,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,461700,instituto de estudios gallegos padre sarmiento iegps,,1,INSTITUTO DE ESTUDIOS GALLEGOS PADRE SARMIENTO (IEGPS),instituto de estudios gallegos padre sarmiento iegps,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.40963855,8475,INSTITUTO BOTANICO DE BARCELONA,8.0,0.40963855
+8476,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,618399,instituto de estudios sociales de andalucia iesa,,1,INSTITUTO DE ESTUDIOS SOCIALES  DE ANDALUCIA (IESA),instituto de estudios sociales de andalucia iesa,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5063291,8476,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5063291
+8477,UNIVERSIDAD DE NAVARRA,ACT_NAC,561550,instituto de estudios superiores de la empresa barcelona,,1,INSTITUTO DE ESTUDIOS SUPERIORES DE LA EMPRESA. BARCELONA,instituto de estudios superiores de la empresa barcelona,20102,,"724,0000",,,,universidad de navarra,31,NIF MCIN,0.34951457,8477,FUNDACION PARA LA INVESTIGACION MEDICA APLICADA,31.0,0.34951457
+8478,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,561872,instituto de fisica corpuscular ific,,1,INSTITUTO DE FISICA CORPUSCULAR (IFIC),instituto de fisica corpuscular ific,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.47761193,8478,INSTITUTO BOTANICO DE BARCELONA,8.0,0.47761193
+8479,UNIVERSIDAD DE CANTABRIA,ACT_NAC,264488,instituto de fisica de cantabria ifca,,1,INSTITUTO DE FISICA DE CANTABRIA (IFCA),instituto de fisica de cantabria ifca,20101,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.14634146,8479,None,39.0,0.14634146
+8480,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,445116,instituto de fisica fundamental,,1,INSTITUTO DE FISICA FUNDAMENTAL,instituto de fisica fundamental,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.516129,8480,INSTITUTO BOTANICO DE BARCELONA,8.0,0.516129
+8481,UNIVERSIDAD DE LAS ISLAS BALEARES,ACT_NAC,323615,instituto de fisica interdisciplinar y sistema complejos ifisc,,1,INSTITUTO DE FISICA INTERDISCIPLINAR Y SISTEMA COMPLEJOS (IFISC),instituto de fisica interdisciplinar y sistema complejos ifisc,20101,,"724,0000",,,,universitat de les illes balears,7,NIF MCIN,0.44262296,8481,INSTITUTO MEDITERRANEO DE ESTUDIOS AVANZADOS IMEDEA UIB CSIC,7.0,0.44262296
+8482,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,617502,instituto de fisica teorica uam csic,,1,INSTITUTO DE FISICA TEORICA UAM/CSIC,instituto de fisica teorica uam csic,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5074627,8482,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5074627
+8483,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,457922,instituto de ganaderia de montana igm,,1,INSTITUTO DE GANADERIA DE MONTAÑA (IGM),instituto de ganaderia de montana igm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5882353,8483,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5882353
+8484,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,272914,instituto de geociencias igeo,,1,INSTITUTO DE GEOCIENCIAS (IGEO),instituto de geociencias igeo,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.53333336,8484,INSTITUTO BOTANICO DE BARCELONA,8.0,0.53333336
+8485,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,502234,instituto de gestion de la innovacion y del conocimiento,,1,INSTITUTO DE GESTION DE LA INNOVACIÓN Y DEL CONOCIMIENTO,instituto de gestion de la innovacion y del conocimiento,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.13333334,8485,None,46.0,0.13333334
+8486,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,454743,instituto de historia ih,,1,INSTITUTO DE HISTORIA (IH),instituto de historia ih,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5090909,8486,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5090909
+8487,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,478948,instituto de ingenieria del agua y medio ambiente iiama,,1,INSTITUTO DE INGENIERIA DEL AGUA Y MEDIO AMBIENTE - IIAMA,instituto de ingenieria del agua y medio ambiente iiama,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.13559322,8487,None,46.0,0.13559322
+8488,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,617457,instituto de investigacion en ciencias de alimentacion,,1,INSTITUTO DE INVESTIGACION EN CIENCIAS DE ALIMENTACION,instituto de investigacion en ciencias de alimentacion,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.47058824,8488,INSTITUTO BOTANICO DE BARCELONA,8.0,0.47058824
+8489,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,26604,instituto de investigacion en recursos cinegeticos,,1,INSTITUTO DE INVESTIGACION EN RECURSOS CINEGETICOS,instituto de investigacion en recursos cinegeticos,29999,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.14814815,8489,None,45.0,0.14814815
+8490,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,260784,instituto de investigacion en recursos cinegeticos irec,,1,INSTITUTO DE INVESTIGACION EN RECURSOS CINEGETICOS IREC,instituto de investigacion en recursos cinegeticos irec,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.41860464,8490,INSTITUTO BOTANICO DE BARCELONA,8.0,0.41860464
+8491,UNIVERSIDAD PUBLICA DE NAVARRA,ACT_NAC,287139,instituto de investigacion social avanzada i communitas,,1,INSTITUTO DE INVESTIGACIÓN SOCIAL AVANZADA (I-COMMUNITAS),instituto de investigacion social avanzada i communitas,20101,,"724,0000",,,,universidad publica de navarra,31,NIF MCIN,0.10169491,8491,None,31.0,0.10169491
+8492,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,431166,instituto de investigacion textil y cooperacion industrial de terrassa intexter,,1,INSTITUTO DE INVESTIGACION TEXTIL Y COOPERACION INDUSTRIAL DE TERRASSA (INTEXTER),instituto de investigacion textil y cooperacion industrial de terrassa intexter,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.28169015,8492,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.28169015
+8493,UNIVERSIDAD DE CADIZ,ACT_NAC,155482,instituto de investigacion vitivinicola y agroalimentaria ivagro,,1,INSTITUTO DE INVESTIGACIÓN VITIVINÍCOLA Y AGROALIMENTARIA (IVAGRO),instituto de investigacion vitivinicola y agroalimentaria ivagro,29999,,"724,0000",,,,universidad de cadiz,11,NIF MCIN,0.407767,8493,CENTRO DE ESTUDIOS PAISAJE Y TERRITORIO,41.0,0.407767
+8494,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,562372,instituto de investigaciones biomedicas alberto sols iibm,,1,INSTITUTO DE INVESTIGACIONES BIOMEDICAS ALBERTO SOLS (IIBM),instituto de investigaciones biomedicas alberto sols iibm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.4090909,8494,INSTITUTO BOTANICO DE BARCELONA,8.0,0.4090909
+8495,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,136531,instituto de investigaciones energeticas y aplicaciones industriales,,1,INSTITUTO DE INVESTIGACIONES ENERGÉTICAS Y APLICACIONES INDUSTRIALES,instituto de investigaciones energeticas y aplicaciones industriales,29999,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.11111111,8495,None,45.0,0.11111111
+8496,CSIC,ACT_NAC,78828,instituto de investigaciones quimicas iiq,,1,INSTITUTO DE INVESTIGACIONES QUIMICAS (IIQ),instituto de investigaciones quimicas iiq,20508,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5,8496,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5
+8497,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,288666,instituto de la grasa ig,,1,INSTITUTO DE LA GRASA (IG),instituto de la grasa ig,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.58181816,8497,INSTITUTO BOTANICO DE BARCELONA,8.0,0.58181816
+8498,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,445107,instituto de lengua literatura y antropologia illa,,1,"INSTITUTO DE LENGUA, LITERATURA Y ANTROPOLOGÍA (ILLA)",instituto de lengua literatura y antropologia illa,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.44444445,8498,INSTITUTO BOTANICO DE BARCELONA,8.0,0.44444445
+8499,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,454920,instituto de lenguas y culturas del mediterraneo y oriente proximo ilc,,1,INSTITUTO DE LENGUAS Y CULTURAS DEL MEDITERRÁNEO Y ORIENTE PRÓXIMO (ILC),instituto de lenguas y culturas del mediterraneo y oriente proximo ilc,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.37623763,8499,INSTITUTO BOTANICO DE BARCELONA,8.0,0.37623763
+8500,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,202894,instituto de matematica pura y aplicada impa,,1,INSTITUTO DE MATEMATICA PURA Y APLICADA - IMPA,instituto de matematica pura y aplicada impa,29999,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.125,8500,None,46.0,0.125
+8501,Agencia Estatal Consejo Superior de Investigaciones Científicas,ACT_NAC,252733,instituto de micro y nanotecnologia inm,,1,Instituto de Micro y Nanotecnología (INM),instituto de micro y nanotecnologia inm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.51428574,8501,INSTITUTO BOTANICO DE BARCELONA,8.0,0.51428574
+8502,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,728056,instituto de microelectronica de barcelona centro nacional de microelectronica imb cnm,,1,INSTITUTO DE MICROELECTRONICA DE BARCELONA - CENTRO NACIONAL DE MICROELECTRONICA (IMB-CNM),instituto de microelectronica de barcelona centro nacional de microelectronica imb cnm,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.47863248,8502,INSTITUTO BOTANICO DE BARCELONA,8.0,0.47863248
+8503,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,265524,instituto de neurociencias in,,1,INSTITUTO DE NEUROCIENCIAS (IN),instituto de neurociencias in,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.5,8503,INSTITUTO BOTANICO DE BARCELONA,8.0,0.5
+8504,UNIVERSIDAD DE LA LAGUNA,ACT_NAC,118870,instituto de productos naturales y agrobiologia csic,,1,Instituto de Productos Naturales y Agrobiología CSIC,instituto de productos naturales y agrobiologia csic,20501,,"724,0000",,,,universidad de la laguna,38,NIF MCIN,0.4318182,8504,INSTITUTO DE ASTROFISICA DE CANARIAS,38.0,0.4318182
+8505,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,274677,instituto de productos naturales y agrobiologia ipna,,1,INSTITUTO DE PRODUCTOS NATURALES Y AGROBIOLOGIA (IPNA),instituto de productos naturales y agrobiologia ipna,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.43373495,8505,INSTITUTO BOTANICO DE BARCELONA,8.0,0.43373495
+8506,CSIC,ACT_NAC,135076,instituto de recursos naturales y agrobiologia irnasa,,1,INSTITUTO DE RECURSOS NATURALES Y AGROBIOLOGIA (IRNASA),instituto de recursos naturales y agrobiologia irnasa,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.42857143,8506,INSTITUTO BOTANICO DE BARCELONA,8.0,0.42857143
+8507,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,321949,instituto de sintesis quimica y catalisis homogenea isqch,,1,INSTITUTO DE SINTESIS QUIMICA Y CATALISIS HOMOGENEA (ISQCH),instituto de sintesis quimica y catalisis homogenea isqch,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.4090909,8507,INSTITUTO BOTANICO DE BARCELONA,8.0,0.4090909
+8508,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,710356,instituto de sistemas optoelectronicos y microtecnologia,,1,INSTITUTO DE SISTEMAS OPTOELECTRONICOS Y MICROTECNOLOGIA,instituto de sistemas optoelectronicos y microtecnologia,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.4827586,8508,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.4827586
+8509,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,601269,instituto de tecnologia quimica y medioambiental de ciudad real,,1,INSTITUTO DE TECNOLOGIA QUIMICA Y MEDIOAMBIENTAL DE CIUDAD REAL,instituto de tecnologia quimica y medioambiental de ciudad real,20101,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.11940298,8509,None,45.0,0.11940298
+8510,CSIC,ACT_NAC,136272,instituto de tecnologias fisicas y de la informacion leonardo torres quevedo itefi,,1,"""INSTITUTO DE TECNOLOGÍAS FÍSICAS Y DE LA INFORMACIÓN """"LEONARDO TORRES QUEVEDO"""" (ITEFI)""",instituto de tecnologias fisicas y de la informacion leonardo torres quevedo itefi,29999,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.44247788,8510,INSTITUTO BOTANICO DE BARCELONA,8.0,0.44247788
+8511,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,78768,instituto de telecomunicaciones y aplicaciones multimedia iteam,,1,INSTITUTO DE TELECOMUNICACIONES Y APLICACIONES MULTIMEDIA - ITEAM,instituto de telecomunicaciones y aplicaciones multimedia iteam,29999,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.11940298,8511,None,46.0,0.11940298
+8512,Institut Espanyol d'Oceanografia,ACT_NAC,151602,instituto espanol de oceanografia ieo,,1,INSTITUTO ESPAÑOL DE OCEANOGRAFIA (IEO),instituto espanol de oceanografia ieo,29999,,"724,0000",,,,instituto espanol de oceanografia ieo csic,28,NIF MCIN,0.41904762,8512,INSTALACION CULTIVO Y REPRODUCCION DE ATUNES ICRA (Cartagena-Mazarrón),30.0,0.41904762
+8513,UNIVERSIDADE DE SANTIAGO DE COMPOSTELA,ACT_NAC,321334,instituto gallego de fisica de altas energias igfae,,1,INSTITUTO GALLEGO DE FISICA DE ALTAS ENERGIAS (IGFAE),instituto gallego de fisica de altas energias igfae,20101,,"724,0000",,,,universidad de santiago de compostela,15,NIF MCIN,0.14545454,8513,None,15.0,0.14545454
+8514,Instituto Geográfico Nacional,ACT_NAC,337967,instituto geografico nacional,,1,Instituto Geográfico Nacional,instituto geografico nacional,29900,,"724,0000",,,,instituto geografico nacional,28,NIF MCIN,0.49275362,8514,INSTITUTO DE RADIOASTRONOMIA MILIMETRICA,18.0,0.49275362
+8515,Instituto Geológico y Minero de España,ACT_NAC,155655,instituto geologico y minero de espana,,1,INSTITUTO GEOLOGICO Y MINERO DE ESPAÑA,instituto geologico y minero de espana,20501,,"724,0000",,,,instituto geologico y minero de espana igme csic,28,NIF MCIN,0.32941177,8515,Oficina de proyectos del IGME Palma de Mallorca,7.0,0.32941177
+8516,FUNDACIO PER A LA UNIVERSITAT OBERTA DE CATALUNYA,ACT_NAC,455801,instituto interdisciplinario de internet in3,,1,"INSTITUTO INTERDISCIPLINARIO DE INTERNET, IN3",instituto interdisciplinario de internet in3,20102,,"724,0000",,,,universitat oberta de catalunya,8,NIF MCIN,0.16666667,8516,None,8.0,0.16666667
+8517,UNIVERSIDAD DE CANTABRIA,ACT_NAC,32207,instituto internacional de investigaciones prehistoricas,,1,INSTITUTO INTERNACIONAL DE INVESTIGACIONES PREHISTORICAS,instituto internacional de investigaciones prehistoricas,29999,,"724,0000",,,,universidad de cantabria,39,NIF MCIN,0.13333334,8517,None,39.0,0.13333334
+8518,UNIVERSIDAD DE VALENCIA,ACT_NAC,601045,instituto interuniversitario de desarrollo local,,1,INSTITUTO INTERUNIVERSITARIO DE DESARROLLO LOCAL,instituto interuniversitario de desarrollo local,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.25490198,8518,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.25490198
+8519,UNIVERSIDAD DE GRANADA,ACT_NAC,406562,instituto interuniversitario de investigacion del sistema tierra,,1,INSTITUTO INTERUNIVERSITARIO DE INVESTIGACION DEL SISTEMA TIERRA,instituto interuniversitario de investigacion del sistema tierra,20101,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.33333334,8519,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.33333334
+8520,Universidad de Granada,ACT_NAC,156017,instituto mixto universitario deporte y salud,,1,INSTITUTO MIXTO UNIVERSITARIO DEPORTE Y SALUD,instituto mixto universitario deporte y salud,29999,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.41584158,8520,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.41584158
+8521,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,429795,instituto pirenaico de ecologia ipe,,1,INSTITUTO PIRENAICO DE ECOLOGIA (IPE),instituto pirenaico de ecologia ipe,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.6666667,8521,INSTITUTO BOTANICO DE BARCELONA,8.0,0.6666667
+8522,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,264591,instituto regional de investigacion cientifica aplicada,,1,INSTITUTO REGIONAL DE INVESTIGACION CIENTIFICA APLICADA,instituto regional de investigacion cientifica aplicada,20101,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.13559322,8522,None,45.0,0.13559322
+8523,UNIVERSIDAD DE SEVILLA,ACT_NAC,136768,instituto universitario de ciencias de la construccion,,1,INSTITUTO UNIVERSITARIO DE CIENCIAS DE LA CONSTRUCCION,instituto universitario de ciencias de la construccion,29999,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.10344828,8523,None,41.0,0.10344828
+8524,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,645666,instituto universitario de conservacion y mejora de la agrodiversidad valenciana,,1,INSTITUTO UNIVERSITARIO DE CONSERVACION Y MEJORA DE LA AGRODIVERSIDAD VALENCIANA,instituto universitario de conservacion y mejora de la agrodiversidad valenciana,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.0952381,8524,None,46.0,0.0952381
+8525,UNIVERSIDAD POMPEU FABRA,ACT_NAC,26088,instituto universitario de cultura,,1,INSTITUTO UNIVERSITARIO DE CULTURA,instituto universitario de cultura,29999,,"724,0000",,,,universidad pompeu fabra,8,NIF MCIN,0.21052632,8525,None,8.0,0.21052632
+8526,UNIVERSIDAD DE SALAMANCA,ACT_NAC,562478,instituto universitario de fisica fundamental y matematicas,,1,INSTITUTO UNIVERSITARIO DE FISICA FUNDAMENTAL Y MATEMATICAS,instituto universitario de fisica fundamental y matematicas,20101,,"724,0000",,,,universidad de salamanca,37,NIF MCIN,0.6138614,8526,INSTITUTO DE BIOLOGIA FUNCIONAL Y GENOMICA,37.0,0.6138614
+8527,UNIVERSIDAD DE ALICANTE,ACT_NAC,501383,instituto universitario de geografia,,1,INSTITUTO UNIVERSITARIO DE GEOGRAFIA,instituto universitario de geografia,20101,,"724,0000",,,,universidad de alicante,3,NIF MCIN,0.2,8527,None,3.0,0.2
+8528,UNIVERSIDAD DE ALICANTE,ACT_NAC,566914,instituto universitario de ingenieria de procesos quimicos iipq,,1,INSTITUTO UNIVERSITARIO DE INGENIERIA DE PROCESOS QUIMICOS (IIPQ),instituto universitario de ingenieria de procesos quimicos iipq,20101,,"724,0000",,,,universidad de alicante,3,NIF MCIN,0.11940298,8528,None,3.0,0.11940298
+8529,UNIVERSIDAD DE ZARAGOZA,ACT_NAC,406853,instituto universitario de investigacion en nanociencia de aragon,,1,INSTITUTO UNIVERSITARIO DE INVESTIGACION  EN NANOCIENCIA DE ARAGON,instituto universitario de investigacion en nanociencia de aragon,20101,,"724,0000",,,,universidad de zaragoza,50,NIF MCIN,0.45901638,8529,INSTITUTO DE SINTESIS QUIMICA Y CATALISIS HOMOGENEA (ISQCH),50.0,0.45901638
+8530,UNIVERSIDAD DE ALICANTE,ACT_NAC,618330,instituto universitario de investigaciones turisticas,,1,INSTITUTO UNIVERSITARIO DE INVESTIGACIONES TURÍSTICAS,instituto universitario de investigaciones turisticas,20101,,"724,0000",,,,universidad de alicante,3,NIF MCIN,0.14035088,8530,None,3.0,0.14035088
+8531,UNIVERSIDAD DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSITATEA,ACT_NAC,445408,instituto universitario de materiales polimericos polymat,,1,INSTITUTO UNIVERSITARIO DE MATERIALES POLIMERICOS (POLYMAT),instituto universitario de materiales polimericos polymat,20101,,"724,0000",,,,universidad del pais vasco euskal herriko unibertsitatea,48,NIF MCIN,0.13114753,8531,None,20.0,0.13114753
+8532,UNIVERSITAT JAUME I DE CASTELLO,ACT_NAC,711278,instituto universitario de plaguicidas y aguas,,1,INSTITUTO UNIVERSITARIO DE PLAGUICIDAS Y AGUAS,instituto universitario de plaguicidas y aguas,20101,,"724,0000",,,,universidad jaume i de castellon,12,NIF MCIN,0.16,8532,None,12.0,0.16
+8533,INSTITUTO VALENCIANO DE INVESTIGACIONES AGRARIAS CAV,ACT_NAC,478336,instituto valenciano de investigaciones agrarias cav,,1,INSTITUTO VALENCIANO DE INVESTIGACIONES AGRARIAS CAV,instituto valenciano de investigaciones agrarias cav,20507,,"724,0000",,,,instituto valenciano de investigaciones agrarias,46,NIF MCIN,0.3018868,8533,CENTRO PARA EL DESARROLLO DE LA AGRICULTURA SOSTENIBLE,46.0,0.3018868
+8534,UNIVERSIDAD DE MURCIA,ACT_NAC,134283,laib imib instituto murciano de investigaciones biomedicas,,1,LAIB. IMIB (Instituto Murciano de Investigaciones Biomédicas),laib imib instituto murciano de investigaciones biomedicas,20101,,"724,0000",,,,universidad de murcia,30,NIF MCIN,0.12903225,8534,None,30.0,0.12903225
+8535,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,502065,mision biologica de galicia mbg,,1,MISION BIOLOGICA DE GALICIA (MBG),mision biologica de galicia mbg,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.38709676,8535,INSTITUTO BOTANICO DE BARCELONA,8.0,0.38709676
+8536,AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS (CSIC),ACT_NAC,265077,museo nacional de ciencias naturales mncn,,1,MUSEO NACIONAL DE CIENCIAS NATURALES (MNCN),museo nacional de ciencias naturales mncn,20501,,"724,0000",,,,consejo superior de investigaciones cientificas csic,28,NIF MCIN,0.33333334,8536,INSTITUTO BOTANICO DE BARCELONA,8.0,0.33333334
+8537,UNIVERSIDADE DA CORUÑA,ACT_NAC,430636,observatorio ocupacional,,1,OBSERVATORIO OCUPACIONAL,observatorio ocupacional,20101,,"724,0000",,,,universidad de a coruna,15,NIF MCIN,0.3548387,8537,CENTRO DE INVESTIGACIONES TECNOLOGICAS,15.0,0.3548387
+8538,INSTITUTO GEOLOGICO Y MINERO DE ESPAÑA (IGME),ACT_NAC,458391,oficina de canarias,,1,OFICINA DE CANARIAS,oficina de canarias,20501,,"724,0000",,,,instituto geologico y minero de espana igme csic,28,NIF MCIN,0.3939394,8538,Oficina de proyectos del IGME Palma de Mallorca,7.0,0.3939394
+8539,UNIVERSIDAD DE ALCALÁ,ACT_NAC,340265,parque cientifico y tecnologico de castilla la mancha,,1,PARQUE CIENTIFICO Y TECNOLOGICO DE CASTILLA LA MANCHA,parque cientifico y tecnologico de castilla la mancha,20101,,"724,0000",,,,universidad de alcala,28,NIF MCIN,0.10526316,8539,None,28.0,0.10526316
+8540,UJI,ACT_NAC,592247,robotnik automation sll,,1,Robotnik Automation SLL,robotnik automation sll,20101,,"724,0000",,,,universidad jaume i de castellon,12,NIF MCIN,0.22222222,8540,None,12.0,0.22222222
+8541,UNIVERSITAT POLITECNICA DE CATALUNYA,ACT_NAC,599633,seccion dep ingenieria electrica,,1,SECCION DEP. INGENIERIA ELECTRICA,seccion dep ingenieria electrica,20101,,"724,0000",,,,universidad politecnica de catalunya,8,NIF MCIN,0.31578946,8541,FUNDACIO PRIVADA I2CAT INTERNET I INNOVACIO DIGITAL A CATALUNYA,8.0,0.31578946
+8542,UNIVERSIDAD DE SALAMANCA,ACT_NAC,418063,servicio regional de citometria,,1,SERVICIO REGIONAL DE CITOMETRÍA,servicio regional de citometria,20101,,"724,0000",,,,universidad de salamanca,37,NIF MCIN,0.46575344,8542,INSTITUTO DE BIOLOGIA FUNCIONAL Y GENOMICA,37.0,0.46575344
+8543,UNIVERSIDAD POLITÉCNICA DE CARTAGENA,ACT_NAC,655487,technological university dublin tud,,1,Technological University Dublin (TUD),technological university dublin tud,20101,,"724,0000",,,,universidad politecnica de cartagena,30,NIF MCIN,0.20512821,8543,None,30.0,0.20512821
+8544,UA,ACT_NAC,400184,ua,,1,UA,ua,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.0,8544,None,46.0,0.0
+8545,Universidad Rey Juan Carlos,ACT_NAC,737818,unidad de postgrado,,1,Unidad de Postgrado,unidad de postgrado,20101,,"724,0000",,,,universidad rey juan carlos,28,NIF MCIN,0.17391305,8545,None,28.0,0.17391305
+8546,INSTITUTO DE SALUD CARLOS III DE MADRID (ISCIII),ACT_NAC,486416,unidad funcional de investigacion de enfermedades cronicas,,1,UNIDAD FUNCIONAL DE INVESTIGACION DE ENFERMEDADES CRONICAS,unidad funcional de investigacion de enfermedades cronicas,20501,,"724,0000",,,,instituto de salud carlos iii isciii,28,NIF MCIN,0.42857143,8546,CIBER ENFERMEDADES RESPIRATORIAS CIBERES,20.0,0.42857143
+8547,UNIVERSIDAD AUTONOMA DE BARCELONA,ACT_NAC,476872,universidad autonoma de barcelona,,1,UNIVERSIDAD AUTONOMA DE BARCELONA,universidad autonoma de barcelona,20101,,"724,0000",,,,universidad autonoma de barcelona,8,NIF MCIN,0.82666665,8547,FUNDACIO UNIVERSITAT AUTONOMA DE BARCELONA,8.0,0.82666665
+8548,UNIVERSIDAD AUTONOMA DE MADRID,ACT_NAC,371273,universidad autonoma de madrid,,1,UNIVERSIDAD AUTONOMA DE MADRID,universidad autonoma de madrid,20101,,"724,0000",,,,universidad autonoma de madrid,28,NIF MCIN,0.41269842,8548,INSTITUTO DE CIENCIAS MATEMATICAS,28.0,0.41269842
+8549,UNIVERSIDAD CARLOS III DE MADRID,ACT_NAC,545924,universidad carlos iii de madrid,,1,UNIVERSIDAD CARLOS III DE MADRID,universidad carlos iii de madrid,20101,,"724,0000",,,,universidad carlos iii de madrid,28,NIF MCIN,0.16666667,8549,None,28.0,0.16666667
+8550,UNIVERSIDAD COMPLUTENSE DE MADRID,ACT_NAC,461724,universidad complutense de madrid,,1,UNIVERSIDAD COMPLUTENSE DE MADRID,universidad complutense de madrid,20101,,"724,0000",,,,universidad complutense de madrid,28,NIF MCIN,0.21621622,8550,None,28.0,0.21621622
+8551,UNIVERSIDAD DE ALICANTE,ACT_NAC,545958,universidad de alicante,,1,UNIVERSIDAD DE ALICANTE,universidad de alicante,20101,,"724,0000",,,,universidad de alicante,3,NIF MCIN,0.22222222,8551,None,3.0,0.22222222
+8552,UNIVERSIDAD DE BURGOS,ACT_NAC,252190,universidad de burgos,,1,UNIVERSIDAD DE BURGOS,universidad de burgos,20101,,"724,0000",,,,universidad de burgos,9,NIF MCIN,0.16,8552,None,9.0,0.16
+8553,UNIVERSIDAD NACIONAL DE EDUCACIÓN A DISTANCIA,ACT_NAC,655473,universidad de cambridge,,1,Universidad de Cambridge,universidad de cambridge,20101,,"724,0000",,,,universidad nacional de educacion a distancia,28,NIF MCIN,0.14285715,8553,None,28.0,0.14285715
+8554,UNIVERSIDAD DE CASTILLA-LA MANCHA,ACT_NAC,284599,universidad de castilla la mancha,,1,UNIVERSIDAD DE CASTILLA-LA MANCHA,universidad de castilla la mancha,20101,,"724,0000",,,,universidad de castilla la mancha,13,NIF MCIN,0.10810811,8554,None,45.0,0.10810811
+8555,Universidad de Córdoba,ACT_NAC,345117,universidad de cordoba,,1,Universidad de Córdoba,universidad de cordoba,20101,,"724,0000",,,,universidad de cordoba,14,NIF MCIN,0.15384616,8555,None,14.0,0.15384616
+8556,Universidad de Girona,ACT_NAC,742627,universidad de girona,,1,Universidad de Girona,universidad de girona,20101,,"724,0000",,,,universitat de girona,17,NIF MCIN,0.24,8556,None,17.0,0.24
+8557,UNIVERSIDAD DE GRANADA,ACT_NAC,288094,universidad de granada,,1,UNIVERSIDAD DE GRANADA,universidad de granada,20101,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.5641026,8557,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.5641026
+8558,UNIVERSIDAD DE HUELVA,ACT_NAC,130447,universidad de huelva,,1,UNIVERSIDAD DE HUELVA,universidad de huelva,20101,,"724,0000",,,,universidad de huelva,21,NIF MCIN,0.16,8558,None,21.0,0.16
+8559,Universidad de La Laguna,ACT_NAC,337686,universidad de la laguna,,1,Universidad de La Laguna,universidad de la laguna,20101,,"724,0000",,,,universidad de la laguna,38,NIF MCIN,0.4,8559,INSTITUTO DE ASTROFISICA DE CANARIAS,38.0,0.4
+8560,UNIVERSIDAD DE MÁLAGA,ACT_NAC,30459,universidad de malaga,,1,UNIVERSIDAD DE MALAGA,universidad de malaga,20101,,"724,0000",,,,universidad de malaga,29,NIF MCIN,0.16,8560,None,29.0,0.16
+8561,UNIVERSIDAD DE MURCIA,ACT_NAC,134413,universidad de murcia facultad de informatica dep de ingenieria y tecnologia de computadores,,1,"Universidad de Murcia, Facultad de Informática, Dep. de Ingeniería y Tecnología de Computadores",universidad de murcia facultad de informatica dep de ingenieria y tecnologia de computadores,20101,,"724,0000",,,,universidad de murcia,30,NIF MCIN,0.0625,8561,None,30.0,0.0625
+8562,UNIVERSIDAD DE MURCIA,ACT_NAC,134342,universidad de murcia facultad de veterinaria dep tecnologia alimentos,,1,"Universidad de Murcia, Facultad de Veterinaria, Dep. Tecnología alimentos.",universidad de murcia facultad de veterinaria dep tecnologia alimentos,20101,,"724,0000",,,,universidad de murcia,30,NIF MCIN,0.08108108,8562,None,30.0,0.08108108
+8563,UNIVERSIDAD DE NAVARRA,ACT_NAC,257409,universidad de navarra,,1,UNIVERSIDAD DE NAVARRA,universidad de navarra,20102,,"724,0000",,,,universidad de navarra,31,NIF MCIN,0.23188406,8563,FUNDACION PARA LA INVESTIGACION MEDICA APLICADA,31.0,0.23188406
+8564,UNIVERSIDAD DE OVIEDO,ACT_NAC,371303,universidad de oviedo,,1,UNIVERSIDAD DE OVIEDO,universidad de oviedo,20101,,"724,0000",,,,universidad de oviedo,33,NIF MCIN,0.24,8564,None,33.0,0.24
+8565,UNIVERSIDAD DE SALAMANCA,ACT_NAC,621237,universidad de salamanca,,1,UNIVERSIDAD DE SALAMANCA,universidad de salamanca,20101,,"724,0000",,,,universidad de salamanca,37,NIF MCIN,0.36363637,8565,INSTITUTO DE BIOLOGIA FUNCIONAL Y GENOMICA,37.0,0.36363637
+8566,UNIVERSIDAD DE SEVILLA,ACT_NAC,193548,universidad de sevilla,,1,UNIVERSIDAD DE SEVILLA,universidad de sevilla,20101,,"724,0000",,,,universidad de sevilla,41,NIF MCIN,0.15384616,8566,None,41.0,0.15384616
+8567,UNIVERSIDAD DE VALLADOLID,ACT_NAC,729581,universidad de valladolid,,1,UNIVERSIDAD DE VALLADOLID,universidad de valladolid,20101,,"724,0000",,,,universidad de valladolid,47,NIF MCIN,0.13793103,8567,None,47.0,0.13793103
+8568,UNIVERSIDAD DE ZARAGOZA,ACT_NAC,193216,universidad de zaragoza,,1,UNIVERSIDAD DE ZARAGOZA,universidad de zaragoza,20101,,"724,0000",,,,universidad de zaragoza,50,NIF MCIN,0.25,8568,INSTITUTO DE SINTESIS QUIMICA Y CATALISIS HOMOGENEA (ISQCH),50.0,0.25
+8569,"UNIVERSIDAD PABLO DE OLAVIDE, DE SEVILLA",ACT_NAC,130310,universidad pablo de olavide,,1,UNIVERSIDAD PABLO DE OLAVIDE,universidad pablo de olavide,20101,,"724,0000",,,,universidad pablo de olavide,41,NIF MCIN,0.1875,8569,None,41.0,0.1875
+8570,UNIVERSIDAD POLITÉCNICA DE CARTAGENA,ACT_NAC,32146,universidad politecnica de cartagena,,1,UNIVERSIDAD POLITÉCNICA DE CARTAGENA,universidad politecnica de cartagena,20101,,"724,0000",,,,universidad politecnica de cartagena,30,NIF MCIN,0.2,8570,None,30.0,0.2
+8571,UNIVERSIDAD POLITECNICA DE MADRID,ACT_NAC,545960,universidad politecnica de madrid,,1,UNIVERSIDAD POLITECNICA DE MADRID,universidad politecnica de madrid,20101,,"724,0000",,,,universidad politecnica de madrid,28,NIF MCIN,0.28125,8571,CENTRO DE AUTOMATICA Y ROBOTICA,28.0,0.28125
+8572,UNIVERSIDAD PÚBLICA DE NAVARRA,ACT_NAC,527924,universidad publica de navarra,,1,UNIVERSIDAD PÚBLICA DE NAVARRA,universidad publica de navarra,20101,,"724,0000",,,,universidad publica de navarra,31,NIF MCIN,0.11764706,8572,None,31.0,0.11764706
+8573,UNIVERSIDAD REY JUAN CARLOS,ACT_NAC,151304,universidad rey juan carlos,,1,UNIVERSIDAD REY JUAN CARLOS,universidad rey juan carlos,20101,,"724,0000",,,,universidad rey juan carlos,28,NIF MCIN,0.12903225,8573,None,28.0,0.12903225
+8574,Universitat de les Illes Balears,ACT_NAC,578763,universitat de les illes balears,,1,Universitat de les Illes Balears,universitat de les illes balears,20101,,"724,0000",,,,universitat de les illes balears,7,NIF MCIN,0.36956522,8574,INSTITUTO MEDITERRANEO DE ESTUDIOS AVANZADOS IMEDEA UIB CSIC,7.0,0.36956522
+8575,UNIVERSITAT DE VALÈNCIA ESTUDI GENERAL,ACT_NAC,636407,universitat de valencia estudi general,,1,UNIVERSITAT DE VALÈNCIA ESTUDI GENERAL,universitat de valencia estudi general,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.36956522,8575,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.36956522
+8576,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,ACT_NAC,636380,universitat politecnica de valencia,,1,UNIVERSITAT POLITÈCNICA DE VALÈNCIA,universitat politecnica de valencia,20101,,"724,0000",,,,universitat politecnica de valencia,46,NIF MCIN,0.20512821,8576,None,46.0,0.20512821
+8577,UNIVERSIDAD DE GRANADA,ACT_NAC,655145,university college london,,1,UNIVERSITY COLLEGE LONDON,university college london,20101,,"724,0000",,,,universidad de granada,18,NIF MCIN,0.32098764,8577,FUNDACION GENERAL UNIVERSIDAD DE GRANADA EMPRESA FGUGREM,18.0,0.32098764
+8578,FUNDACION UNIVERSITARIA SAN PABLO CEU,ACT_NAC,563432,usp ceu facultad de farmacia,,1,USP-CEU FACULTAD DE FARMACIA,usp ceu facultad de farmacia,20102,,"724,0000",,,,universidad san pablo ceu,28,NIF MCIN,0.0625,8578,None,28.0,0.0625
+8579,FUNDACION UNIVERSITARIA SAN PABLO CEU,ACT_NAC,454771,usp ceu facultad de humanidades y ciencias de la comunicacion,,1,USP-CEU FACULTAD DE HUMANIDADES Y CIENCIAS DE LA COMUNICACIÓN,usp ceu facultad de humanidades y ciencias de la comunicacion,20102,,"724,0000",,,,universidad cardenal herrera ceu,46,NIF MCIN,0.092307694,8579,None,28.0,0.092307694
+8580,UV,ACT_NAC,400269,uv,,1,UV,uv,20101,,"724,0000",,,,universitat de valencia,46,NIF MCIN,0.035714287,8580,CONSORCIO ESPACIAL VALENCIANO VAL SPACE CONSORTIUM VSC,46.0,0.035714287
+8581,UNIVERSIDAD DEL PAIS VASCO EUSKAL HERRIKO UNIBERTSITATEA,ACT_NAC,26055,vicerrectorado de investigacion,,1,VICERRECTORADO DE INVESTIGACION,vicerrectorado de investigacion,20101,,"724,0000",,,,universidad del pais vasco euskal herriko unibertsitatea,48,NIF MCIN,0.17142858,8581,None,20.0,0.17142858
+8582,"UNIVERSIDAD PABLO DE OLAVIDE, DE SEVILLA",ACT_NAC,755933,vicerrectorado de investigacion y nuevas tecnologias,,1,VICERRECTORADO DE INVESTIGACION Y NUEVAS TECNOLOGIAS,vicerrectorado de investigacion y nuevas tecnologias,20101,,"724,0000",,,,universidad pablo de olavide,41,NIF MCIN,0.071428575,8582,None,41.0,0.071428575
+8583,UNIVERSIDAD DE CÓRDOBA,ACT_NAC,82282,vicerrectorado de politica cientifica,,1,VICERRECTORADO DE POLITICA CIENTIFICA,vicerrectorado de politica cientifica,20101,,"724,0000",,,,universidad de cordoba,14,NIF MCIN,0.048780486,8583,None,14.0,0.048780486
+8584,INSTITUT DE RECERCA I TECNOLOGIA AGROALIMENTARIES (IRTA),ACT_NAC,418093,xdpto remugants,,1,XDPTO. REMUGANTS,xdpto remugants,20507,,"724,0000",,,,institut de recerca i tecnologia agroalimentaries,8,NIF MCIN,0.2769231,8584,FUNDACIO CENTRE DE RECERCA EN SANITAT ANIMAL CRESA,8.0,0.2769231
+8585,UNIVERSIDAD POLITÉCNICA DE CARTAGENA,ACT_NAC,487000,xservicio de apoyo a la investigacion tecnologica,,1,XSERVICIO DE APOYO A LA INVESTIGACIÓN TECNOLÓGICA,xservicio de apoyo a la investigacion tecnologica,20101,,"724,0000",,,,universidad politecnica de cartagena,30,NIF MCIN,0.0754717,8585,None,30.0,0.0754717
+8586,,,,,,,,,,,,,,,,,,,8586,,,
+8587,,,,,,,,,,,,,,,,,,,8587,,,
+8588,,,,,,,,,,,,,,,,,,,8588,,,
+8589,,,,,,,,,,,,,,,,,,,8589,,,
+8590,,,,,,,,,,,,,,,,,,,8590,,,
+8591,,,,,,,,,,,,,,,,,,,8591,,,
+8592,,,,,,,,,,,,,,,,,,,8592,,,
+8593,,,,,,,,,,,,,,,,,,,8593,,,
+8594,,,,,,,,,,,,,,,,,,,8594,,,
+8595,,,,,,,,,,,,,,,,,,,8595,,,
+8596,,,,,,,,,,,,,,,,,,,8596,,,
+8597,,,,,,,,,,,,,,,,,,,8597,,,
+8598,,,,,,,,,,,,,,,,,,,8598,,,
+8599,,,,,,,,,,,,,,,,,,,8599,,,
+8600,,,,,,,,,,,,,,,,,,,8600,,,
+8601,,,,,,,,,,,,,,,,,,,8601,,,
+8602,,,,,,,,,,,,,,,,,,,8602,,,
+8603,,,,,,,,,,,,,,,,,,,8603,,,
+8604,,,,,,,,,,,,,,,,,,,8604,,,
+8605,,,,,,,,,,,,,,,,,,,8605,,,
+8606,,,,,,,,,,,,,,,,,,,8606,,,
+8607,,,,,,,,,,,,,,,,,,,8607,,,
+8608,,,,,,,,,,,,,,,,,,,8608,,,
+8609,,,,,,,,,,,,,,,,,,,8609,,,
+8610,,,,,,,,,,,,,,,,,,,8610,,,
+8611,,,,,,,,,,,,,,,,,,,8611,,,
+8612,,,,,,,,,,,,,,,,,,,8612,,,
+8613,,,,,,,,,,,,,,,,,,,8613,,,
+8614,,,,,,,,,,,,,,,,,,,8614,,,
+8615,,,,,,,,,,,,,,,,,,,8615,,,
+8616,,,,,,,,,,,,,,,,,,,8616,,,
+8617,,,,,,,,,,,,,,,,,,,8617,,,
+8618,,,,,,,,,,,,,,,,,,,8618,,,
+8619,,,,,,,,,,,,,,,,,,,8619,,,
+8620,,,,,,,,,,,,,,,,,,,8620,,,
+8621,,,,,,,,,,,,,,,,,,,8621,,,
+8622,,,,,,,,,,,,,,,,,,,8622,,,
+8623,,,,,,,,,,,,,,,,,,,8623,,,
+8624,,,,,,,,,,,,,,,,,,,8624,,,
+8625,,,,,,,,,,,,,,,,,,,8625,,,
+8626,,,,,,,,,,,,,,,,,,,8626,,,
+8627,,,,,,,,,,,,,,,,,,,8627,,,
+8628,,,,,,,,,,,,,,,,,,,8628,,,
+8629,,,,,,,,,,,,,,,,,,,8629,,,
+8630,,,,,,,,,,,,,,,,,,,8630,,,
+8631,,,,,,,,,,,,,,,,,,,8631,,,
+8632,,,,,,,,,,,,,,,,,,,8632,,,
+8633,,,,,,,,,,,,,,,,,,,8633,,,
+8634,,,,,,,,,,,,,,,,,,,8634,,,
+8635,,,,,,,,,,,,,,,,,,,8635,,,
+8636,,,,,,,,,,,,,,,,,,,8636,,,
+8637,,,,,,,,,,,,,,,,,,,8637,,,
+8638,,,,,,,,,,,,,,,,,,,8638,,,
+8639,,,,,,,,,,,,,,,,,,,8639,,,
+8640,,,,,,,,,,,,,,,,,,,8640,,,
+8641,,,,,,,,,,,,,,,,,,,8641,,,
+8642,,,,,,,,,,,,,,,,,,,8642,,,
+8643,,,,,,,,,,,,,,,,,,,8643,,,
+8644,,,,,,,,,,,,,,,,,,,8644,,,
+8645,,,,,,,,,,,,,,,,,,,8645,,,
+8646,,,,,,,,,,,,,,,,,,,8646,,,
+8647,,,,,,,,,,,,,,,,,,,8647,,,
+8648,,,,,,,,,,,,,,,,,,,8648,,,
+8649,,,,,,,,,,,,,,,,,,,8649,,,
+8650,,,,,,,,,,,,,,,,,,,8650,,,
+8651,,,,,,,,,,,,,,,,,,,8651,,,
+8652,,,,,,,,,,,,,,,,,,,8652,,,
+8653,,,,,,,,,,,,,,,,,,,8653,,,
+8654,,,,,,,,,,,,,,,,,,,8654,,,
+8655,,,,,,,,,,,,,,,,,,,8655,,,
+8656,,,,,,,,,,,,,,,,,,,8656,,,
+8657,,,,,,,,,,,,,,,,,,,8657,,,
+8658,,,,,,,,,,,,,,,,,,,8658,,,
+8659,,,,,,,,,,,,,,,,,,,8659,,,
+8660,,,,,,,,,,,,,,,,,,,8660,,,
+8661,,,,,,,,,,,,,,,,,,,8661,,,
+8662,,,,,,,,,,,,,,,,,,,8662,,,
+8663,,,,,,,,,,,,,,,,,,,8663,,,
+8664,,,,,,,,,,,,,,,,,,,8664,,,
+8665,,,,,,,,,,,,,,,,,,,8665,,,
+8666,,,,,,,,,,,,,,,,,,,8666,,,
+8667,,,,,,,,,,,,,,,,,,,8667,,,
+8668,,,,,,,,,,,,,,,,,,,8668,,,
+8669,,,,,,,,,,,,,,,,,,,8669,,,
+8670,,,,,,,,,,,,,,,,,,,8670,,,
+8671,,,,,,,,,,,,,,,,,,,8671,,,
+8672,,,,,,,,,,,,,,,,,,,8672,,,
+8673,,,,,,,,,,,,,,,,,,,8673,,,
+8674,,,,,,,,,,,,,,,,,,,8674,,,
+8675,,,,,,,,,,,,,,,,,,,8675,,,
+8676,,,,,,,,,,,,,,,,,,,8676,,,
+8677,,,,,,,,,,,,,,,,,,,8677,,,
+8678,,,,,,,,,,,,,,,,,,,8678,,,
+8679,,,,,,,,,,,,,,,,,,,8679,,,
+8680,,,,,,,,,,,,,,,,,,,8680,,,
+8681,,,,,,,,,,,,,,,,,,,8681,,,
+8682,,,,,,,,,,,,,,,,,,,8682,,,
+8683,,,,,,,,,,,,,,,,,,,8683,,,
+8684,,,,,,,,,,,,,,,,,,,8684,,,
+8685,,,,,,,,,,,,,,,,,,,8685,,,
+8686,,,,,,,,,,,,,,,,,,,8686,,,
+8687,,,,,,,,,,,,,,,,,,,8687,,,
+8688,,,,,,,,,,,,,,,,,,,8688,,,
+8689,,,,,,,,,,,,,,,,,,,8689,,,
+8690,,,,,,,,,,,,,,,,,,,8690,,,
+8691,,,,,,,,,,,,,,,,,,,8691,,,
+8692,,,,,,,,,,,,,,,,,,,8692,,,
+8693,,,,,,,,,,,,,,,,,,,8693,,,
+8694,,,,,,,,,,,,,,,,,,,8694,,,
+8695,,,,,,,,,,,,,,,,,,,8695,,,
+8696,,,,,,,,,,,,,,,,,,,8696,,,
+8697,,,,,,,,,,,,,,,,,,,8697,,,
+8698,,,,,,,,,,,,,,,,,,,8698,,,
+8699,,,,,,,,,,,,,,,,,,,8699,,,
+8700,,,,,,,,,,,,,,,,,,,8700,,,
+8701,,,,,,,,,,,,,,,,,,,8701,,,
+8702,,,,,,,,,,,,,,,,,,,8702,,,
+8703,,,,,,,,,,,,,,,,,,,8703,,,
+8704,,,,,,,,,,,,,,,,,,,8704,,,
+8705,,,,,,,,,,,,,,,,,,,8705,,,
+8706,,,,,,,,,,,,,,,,,,,8706,,,
+8707,,,,,,,,,,,,,,,,,,,8707,,,
+8708,,,,,,,,,,,,,,,,,,,8708,,,
+8709,,,,,,,,,,,,,,,,,,,8709,,,
+8710,,,,,,,,,,,,,,,,,,,8710,,,
+8711,,,,,,,,,,,,,,,,,,,8711,,,
+8712,,,,,,,,,,,,,,,,,,,8712,,,
+8713,,,,,,,,,,,,,,,,,,,8713,,,
+8714,,,,,,,,,,,,,,,,,,,8714,,,
+8715,,,,,,,,,,,,,,,,,,,8715,,,
+8716,,,,,,,,,,,,,,,,,,,8716,,,
+8717,,,,,,,,,,,,,,,,,,,8717,,,
+8718,,,,,,,,,,,,,,,,,,,8718,,,
+8719,,,,,,,,,,,,,,,,,,,8719,,,
+8720,,,,,,,,,,,,,,,,,,,8720,,,
+8721,,,,,,,,,,,,,,,,,,,8721,,,
+8722,,,,,,,,,,,,,,,,,,,8722,,,
+8723,,,,,,,,,,,,,,,,,,,8723,,,
+8724,,,,,,,,,,,,,,,,,,,8724,,,
+8725,,,,,,,,,,,,,,,,,,,8725,,,
+8726,,,,,,,,,,,,,,,,,,,8726,,,
+8727,,,,,,,,,,,,,,,,,,,8727,,,
+8728,,,,,,,,,,,,,,,,,,,8728,,,
+8729,,,,,,,,,,,,,,,,,,,8729,,,
+8730,,,,,,,,,,,,,,,,,,,8730,,,
+8731,,,,,,,,,,,,,,,,,,,8731,,,
+8732,,,,,,,,,,,,,,,,,,,8732,,,
+8733,,,,,,,,,,,,,,,,,,,8733,,,
+8734,,,,,,,,,,,,,,,,,,,8734,,,
+8735,,,,,,,,,,,,,,,,,,,8735,,,
+8736,,,,,,,,,,,,,,,,,,,8736,,,
+8737,,,,,,,,,,,,,,,,,,,8737,,,
+8738,,,,,,,,,,,,,,,,,,,8738,,,
+8739,,,,,,,,,,,,,,,,,,,8739,,,
+8740,,,,,,,,,,,,,,,,,,,8740,,,
+8741,,,,,,,,,,,,,,,,,,,8741,,,
+8742,,,,,,,,,,,,,,,,,,,8742,,,
+8743,,,,,,,,,,,,,,,,,,,8743,,,
+8744,,,,,,,,,,,,,,,,,,,8744,,,
+8745,,,,,,,,,,,,,,,,,,,8745,,,
+8746,,,,,,,,,,,,,,,,,,,8746,,,
+8747,,,,,,,,,,,,,,,,,,,8747,,,
+8748,,,,,,,,,,,,,,,,,,,8748,,,
+8749,,,,,,,,,,,,,,,,,,,8749,,,
+8750,,,,,,,,,,,,,,,,,,,8750,,,
+8751,,,,,,,,,,,,,,,,,,,8751,,,
+8752,,,,,,,,,,,,,,,,,,,8752,,,
+8753,,,,,,,,,,,,,,,,,,,8753,,,
+8754,,,,,,,,,,,,,,,,,,,8754,,,
+8755,,,,,,,,,,,,,,,,,,,8755,,,
+8756,,,,,,,,,,,,,,,,,,,8756,,,
+8757,,,,,,,,,,,,,,,,,,,8757,,,
+8758,,,,,,,,,,,,,,,,,,,8758,,,
+8759,,,,,,,,,,,,,,,,,,,8759,,,
+8760,,,,,,,,,,,,,,,,,,,8760,,,
+8761,,,,,,,,,,,,,,,,,,,8761,,,
+8762,,,,,,,,,,,,,,,,,,,8762,,,
+8763,,,,,,,,,,,,,,,,,,,8763,,,
+8764,,,,,,,,,,,,,,,,,,,8764,,,
+8765,,,,,,,,,,,,,,,,,,,8765,,,
+8766,,,,,,,,,,,,,,,,,,,8766,,,
+8767,,,,,,,,,,,,,,,,,,,8767,,,
+8768,,,,,,,,,,,,,,,,,,,8768,,,
+8769,,,,,,,,,,,,,,,,,,,8769,,,
+8770,,,,,,,,,,,,,,,,,,,8770,,,
+8771,,,,,,,,,,,,,,,,,,,8771,,,
+8772,,,,,,,,,,,,,,,,,,,8772,,,
+8773,,,,,,,,,,,,,,,,,,,8773,,,
+8774,,,,,,,,,,,,,,,,,,,8774,,,
+8775,,,,,,,,,,,,,,,,,,,8775,,,
+8776,,,,,,,,,,,,,,,,,,,8776,,,
+8777,,,,,,,,,,,,,,,,,,,8777,,,
+8778,,,,,,,,,,,,,,,,,,,8778,,,
+8779,,,,,,,,,,,,,,,,,,,8779,,,
+8780,,,,,,,,,,,,,,,,,,,8780,,,
+8781,,,,,,,,,,,,,,,,,,,8781,,,
+8782,,,,,,,,,,,,,,,,,,,8782,,,
+8783,,,,,,,,,,,,,,,,,,,8783,,,
+8784,,,,,,,,,,,,,,,,,,,8784,,,
+8785,,,,,,,,,,,,,,,,,,,8785,,,
+8786,,,,,,,,,,,,,,,,,,,8786,,,
+8787,,,,,,,,,,,,,,,,,,,8787,,,
+8788,,,,,,,,,,,,,,,,,,,8788,,,
+8789,,,,,,,,,,,,,,,,,,,8789,,,
+8790,,,,,,,,,,,,,,,,,,,8790,,,
+8791,,,,,,,,,,,,,,,,,,,8791,,,
+8792,,,,,,,,,,,,,,,,,,,8792,,,
+8793,,,,,,,,,,,,,,,,,,,8793,,,
+8794,,,,,,,,,,,,,,,,,,,8794,,,
+8795,,,,,,,,,,,,,,,,,,,8795,,,
+8796,,,,,,,,,,,,,,,,,,,8796,,,
+8797,,,,,,,,,,,,,,,,,,,8797,,,
+8798,,,,,,,,,,,,,,,,,,,8798,,,
+8799,,,,,,,,,,,,,,,,,,,8799,,,
+8800,,,,,,,,,,,,,,,,,,,8800,,,
+8801,,,,,,,,,,,,,,,,,,,8801,,,
+8802,,,,,,,,,,,,,,,,,,,8802,,,
+8803,,,,,,,,,,,,,,,,,,,8803,,,
+8804,,,,,,,,,,,,,,,,,,,8804,,,
+8805,,,,,,,,,,,,,,,,,,,8805,,,
+8806,,,,,,,,,,,,,,,,,,,8806,,,
+8807,,,,,,,,,,,,,,,,,,,8807,,,
+8808,,,,,,,,,,,,,,,,,,,8808,,,
+8809,,,,,,,,,,,,,,,,,,,8809,,,
+8810,,,,,,,,,,,,,,,,,,,8810,,,
+8811,,,,,,,,,,,,,,,,,,,8811,,,
+8812,,,,,,,,,,,,,,,,,,,8812,,,
+8813,,,,,,,,,,,,,,,,,,,8813,,,
+8814,,,,,,,,,,,,,,,,,,,8814,,,
+8815,,,,,,,,,,,,,,,,,,,8815,,,
+8816,,,,,,,,,,,,,,,,,,,8816,,,
+8817,,,,,,,,,,,,,,,,,,,8817,,,
+8818,,,,,,,,,,,,,,,,,,,8818,,,
+8819,,,,,,,,,,,,,,,,,,,8819,,,
+8820,,,,,,,,,,,,,,,,,,,8820,,,
+8821,,,,,,,,,,,,,,,,,,,8821,,,
+8822,,,,,,,,,,,,,,,,,,,8822,,,
+8823,,,,,,,,,,,,,,,,,,,8823,,,
+8824,,,,,,,,,,,,,,,,,,,8824,,,
+8825,,,,,,,,,,,,,,,,,,,8825,,,
+8826,,,,,,,,,,,,,,,,,,,8826,,,
+8827,,,,,,,,,,,,,,,,,,,8827,,,
+8828,,,,,,,,,,,,,,,,,,,8828,,,
+8829,,,,,,,,,,,,,,,,,,,8829,,,
+8830,,,,,,,,,,,,,,,,,,,8830,,,
+8831,,,,,,,,,,,,,,,,,,,8831,,,
+8832,,,,,,,,,,,,,,,,,,,8832,,,
+8833,,,,,,,,,,,,,,,,,,,8833,,,
+8834,,,,,,,,,,,,,,,,,,,8834,,,
+8835,,,,,,,,,,,,,,,,,,,8835,,,
+8836,,,,,,,,,,,,,,,,,,,8836,,,
+8837,,,,,,,,,,,,,,,,,,,8837,,,
+8838,,,,,,,,,,,,,,,,,,,8838,,,
+8839,,,,,,,,,,,,,,,,,,,8839,,,
+8840,,,,,,,,,,,,,,,,,,,8840,,,
+8841,,,,,,,,,,,,,,,,,,,8841,,,
+8842,,,,,,,,,,,,,,,,,,,8842,,,
+8843,,,,,,,,,,,,,,,,,,,8843,,,
+8844,,,,,,,,,,,,,,,,,,,8844,,,
+8845,,,,,,,,,,,,,,,,,,,8845,,,
+8846,,,,,,,,,,,,,,,,,,,8846,,,
+8847,,,,,,,,,,,,,,,,,,,8847,,,
+8848,,,,,,,,,,,,,,,,,,,8848,,,
+8849,,,,,,,,,,,,,,,,,,,8849,,,
+8850,,,,,,,,,,,,,,,,,,,8850,,,
+8851,,,,,,,,,,,,,,,,,,,8851,,,
+8852,,,,,,,,,,,,,,,,,,,8852,,,
+8853,,,,,,,,,,,,,,,,,,,8853,,,
+8854,,,,,,,,,,,,,,,,,,,8854,,,
+8855,,,,,,,,,,,,,,,,,,,8855,,,
+8856,,,,,,,,,,,,,,,,,,,8856,,,
+8857,,,,,,,,,,,,,,,,,,,8857,,,
+8858,,,,,,,,,,,,,,,,,,,8858,,,
+8859,,,,,,,,,,,,,,,,,,,8859,,,
+8860,,,,,,,,,,,,,,,,,,,8860,,,
+8861,,,,,,,,,,,,,,,,,,,8861,,,
+8862,,,,,,,,,,,,,,,,,,,8862,,,
+8863,,,,,,,,,,,,,,,,,,,8863,,,
+8864,,,,,,,,,,,,,,,,,,,8864,,,
+8865,,,,,,,,,,,,,,,,,,,8865,,,
+8866,,,,,,,,,,,,,,,,,,,8866,,,
+8867,,,,,,,,,,,,,,,,,,,8867,,,
+8868,,,,,,,,,,,,,,,,,,,8868,,,
+8869,,,,,,,,,,,,,,,,,,,8869,,,
+8870,,,,,,,,,,,,,,,,,,,8870,,,
+8871,,,,,,,,,,,,,,,,,,,8871,,,
+8872,,,,,,,,,,,,,,,,,,,8872,,,
+8873,,,,,,,,,,,,,,,,,,,8873,,,
+8874,,,,,,,,,,,,,,,,,,,8874,,,
+8875,,,,,,,,,,,,,,,,,,,8875,,,
+8876,,,,,,,,,,,,,,,,,,,8876,,,
+8877,,,,,,,,,,,,,,,,,,,8877,,,
+8878,,,,,,,,,,,,,,,,,,,8878,,,
+8879,,,,,,,,,,,,,,,,,,,8879,,,
+8880,,,,,,,,,,,,,,,,,,,8880,,,
+8881,,,,,,,,,,,,,,,,,,,8881,,,
+8882,,,,,,,,,,,,,,,,,,,8882,,,
+8883,,,,,,,,,,,,,,,,,,,8883,,,
+8884,,,,,,,,,,,,,,,,,,,8884,,,
+8885,,,,,,,,,,,,,,,,,,,8885,,,
+8886,,,,,,,,,,,,,,,,,,,8886,,,
+8887,,,,,,,,,,,,,,,,,,,8887,,,
+8888,,,,,,,,,,,,,,,,,,,8888,,,
+8889,,,,,,,,,,,,,,,,,,,8889,,,
+8890,,,,,,,,,,,,,,,,,,,8890,,,
+8891,,,,,,,,,,,,,,,,,,,8891,,,
+8892,,,,,,,,,,,,,,,,,,,8892,,,
+8893,,,,,,,,,,,,,,,,,,,8893,,,
+8894,,,,,,,,,,,,,,,,,,,8894,,,
+8895,,,,,,,,,,,,,,,,,,,8895,,,
+8896,,,,,,,,,,,,,,,,,,,8896,,,
+8897,,,,,,,,,,,,,,,,,,,8897,,,
+8898,,,,,,,,,,,,,,,,,,,8898,,,
+8899,,,,,,,,,,,,,,,,,,,8899,,,
+8900,,,,,,,,,,,,,,,,,,,8900,,,
+8901,,,,,,,,,,,,,,,,,,,8901,,,
+8902,,,,,,,,,,,,,,,,,,,8902,,,
+8903,,,,,,,,,,,,,,,,,,,8903,,,
+8904,,,,,,,,,,,,,,,,,,,8904,,,
+8905,,,,,,,,,,,,,,,,,,,8905,,,
+8906,,,,,,,,,,,,,,,,,,,8906,,,
+8907,,,,,,,,,,,,,,,,,,,8907,,,
+8908,,,,,,,,,,,,,,,,,,,8908,,,
+8909,,,,,,,,,,,,,,,,,,,8909,,,
+8910,,,,,,,,,,,,,,,,,,,8910,,,
+8911,,,,,,,,,,,,,,,,,,,8911,,,
+8912,,,,,,,,,,,,,,,,,,,8912,,,
+8913,,,,,,,,,,,,,,,,,,,8913,,,
+8914,,,,,,,,,,,,,,,,,,,8914,,,
+8915,,,,,,,,,,,,,,,,,,,8915,,,
+8916,,,,,,,,,,,,,,,,,,,8916,,,
+8917,,,,,,,,,,,,,,,,,,,8917,,,
+8918,,,,,,,,,,,,,,,,,,,8918,,,
+8919,,,,,,,,,,,,,,,,,,,8919,,,
+8920,,,,,,,,,,,,,,,,,,,8920,,,
