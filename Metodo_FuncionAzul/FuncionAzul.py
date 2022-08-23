@@ -51,7 +51,14 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
         Cuando sea True se generan los archivos en los formatos csv y parquet. 
         Cuando sea False, se generan los archivos únicamente en formato parquet.
     '''
-    spark = SparkSession.builder.appName('SparkByExamples.com').getOrCreate()
+    spark = SparkSession.builder.appName('FuncionAzul').config("spark.driver.memory","70G")\
+                         .config("spark.executor.memory","70G")\
+                         .config("spark.executor.cores","20")\
+                         .config("spark.executor.instances","5")\
+                         .config("spark.driver.maxResultSize", '128g')\
+                         .config("spark.memory.offHeap.enabled", 'true')\
+                         .config("spark.memory.offHeap.size", '30g')\
+                         .enableHiveSupport().getOrCreate()
 
 
     # =============================================================================
