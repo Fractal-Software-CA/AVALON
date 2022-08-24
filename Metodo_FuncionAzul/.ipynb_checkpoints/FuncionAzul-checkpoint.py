@@ -1,9 +1,9 @@
-
-
 from function2 import *
+import pickle
 import pyspark
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window as W
+
 
 def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores, 
                 Ruta_Nombre_Input_relaciones,
@@ -51,7 +51,14 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
         Cuando sea True se generan los archivos en los formatos csv y parquet. 
         Cuando sea False, se generan los archivos únicamente en formato parquet.
     '''
-    spark = SparkSession.builder.appName('SparkByExamples.com').getOrCreate()
+    spark = SparkSession.builder.appName('FuncionAzul').config("spark.driver.memory","70G")\
+                         .config("spark.executor.memory","70G")\
+                         .config("spark.executor.cores","20")\
+                         .config("spark.executor.instances","5")\
+                         .config("spark.driver.maxResultSize", '128g')\
+                         .config("spark.memory.offHeap.enabled", 'true')\
+                         .config("spark.memory.offHeap.size", '30g')\
+                         .enableHiveSupport().getOrCreate()
 
 
     # =============================================================================
@@ -229,7 +236,7 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
                                             "Centro_Norm",
                                             ["Centro_Norm"],
                                             'index_name',
-                                            10)
+                                            5)
 
     l = get_matching_by_elasticSearch_Distance_ratcliff_obershelp(spark,l)
     duplicados = list(l.filter("final_score >= 0.875").select("Entidad_Norm").dropDuplicates().toPandas().Entidad_Norm)
@@ -414,7 +421,7 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
                                                 "C_DNM_UD_ORGANICA_Norm",
                                                 Nombre_Input_dir3.columns,
                                                 'index_name',
-                                                10)
+                                                5)
 
         l = get_matching_by_elasticSearch_Distance_ratcliff_obershelp(spark,l).filter("final_score >= 0.875")\
                                        .dropDuplicates(subset = ['Entidad_Norm', "C_DNM_UD_ORGANICA_Norm"])
