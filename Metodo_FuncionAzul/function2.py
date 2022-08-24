@@ -51,7 +51,7 @@ def format_results(results,df1columns,df2columns):
     names_target = []
     columnsSourcesNames1 = [[]]*len(df1columns)
     columnsTargetNames1 = [[]]*len(df2columns)
-    for i in results:
+    for i in tqdm(results):
 
         source_name = results[i]['source_name']
         columnsSourcesNamesResults = list(map(lambda x: results[i][df1columns[x]], range(len(df1columns))))

@@ -1,9 +1,9 @@
-
-
 from function2 import *
+import pickle
 import pyspark
 from pyspark.sql import SparkSession
 from pyspark.sql.window import Window as W
+
 
 def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores, 
                 Ruta_Nombre_Input_relaciones,
@@ -236,7 +236,7 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
                                             "Centro_Norm",
                                             ["Centro_Norm"],
                                             'index_name',
-                                            10)
+                                            5)
 
     l = get_matching_by_elasticSearch_Distance_ratcliff_obershelp(spark,l)
     duplicados = list(l.filter("final_score >= 0.875").select("Entidad_Norm").dropDuplicates().toPandas().Entidad_Norm)
@@ -421,7 +421,7 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
                                                 "C_DNM_UD_ORGANICA_Norm",
                                                 Nombre_Input_dir3.columns,
                                                 'index_name',
-                                                10)
+                                                5)
 
         l = get_matching_by_elasticSearch_Distance_ratcliff_obershelp(spark,l).filter("final_score >= 0.875")\
                                        .dropDuplicates(subset = ['Entidad_Norm', "C_DNM_UD_ORGANICA_Norm"])
