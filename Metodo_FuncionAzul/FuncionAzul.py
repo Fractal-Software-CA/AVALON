@@ -69,6 +69,8 @@ def FuncionAzul(Ruta_Nombre_Input_entidades, Ruta_Nombre_Input_investigadores,
     # =============================================================================
     Nombre_Input_entidades = spark.read.csv(Ruta_Nombre_Input_entidades, sep=";", header=True)
     Nombre_Input_relaciones = spark.read.csv(Ruta_Nombre_Input_relaciones, sep=";", header=True)
+    Nombre_Input_relaciones = Nombre_Input_relaciones.drop("Entidad_NIVEL_0", "Entidad_Norm_NIVEL_0", "CIF_NIVEL_0", "Provincia_Entidad_NIVEL_0", "Entidad_NIVEL_1",
+                                                          "Entidad_Norm_NIVEL_1", "CIF_NIVEL_1", "Provincia_Entidad_NIVEL_1")
     Nombre_Input_investigadores = spark.read.csv(Ruta_Nombre_Input_investigadores, sep=";", header=True)
 
 
