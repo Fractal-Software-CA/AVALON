@@ -251,12 +251,12 @@ UDF_normalizarTexto=udf(normalizarTexto, StringType())
 
 def save_csv_parquet(var, Flag_csv, ruta):
     if Flag_csv == True:
-        var.toPandas().to_csv(f'{ruta}.csv', index=False )
+        var.toPandas().to_csv(f'{ruta}.csv', decimal=",", index=False )
         
         
-        var.toPandas().to_parquet(f'{ruta}.parquet', index=False)
+        var.toPandas().to_parquet(f'{ruta}.parquet',  index=False)
     else:
-        var.toPandas().to_parquet(f'{ruta}.parquet', index=False)
+        var.toPandas().to_parquet(f'{ruta}.parquet',  index=False)
 
 
 
