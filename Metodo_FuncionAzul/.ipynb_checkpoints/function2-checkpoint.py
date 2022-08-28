@@ -185,11 +185,11 @@ def get_matching_entities_by_elasticSearch(df1,
             
             firstMatch = [target_idx,entity_j]
             
-            secondMatch = [columnstargetNames[l][target_idx] for l in range(len(df2columns))]
-#             secondMatch = []
+            #secondMatch = [columnstargetNames[l][target_idx] for l in range(len(df2columns))]
+            secondMatch = []
             
-#             for l in range(len(df2columns)):
-#                 secondMatch = secondMatch + [columnstargetNames[l][target_idx]]
+            for l in range(len(df2columns)):
+                secondMatch = secondMatch + [columnstargetNames[l][target_idx]]
             
             match = tuple(firstMatch + secondMatch)
             matching_entities.append(match)
